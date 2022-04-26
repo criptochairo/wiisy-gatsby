@@ -1,0 +1,30 @@
+import * as React from "react"
+import { graphql } from "gatsby"
+import Layout from "../components/layout"
+import Seo from "../components/seo"
+import HomeEs from "../components/HomeEs"
+import Bio from "../components/bio"
+
+const BlogIndex = ({ data, location }) => {
+  const siteTitle = data.site.siteMetadata?.title || `Title`
+
+  return (
+    <Layout location={location} title={siteTitle}>
+      <Seo title="Página Principal" />
+      <Bio />
+      <HomeEs />
+    </Layout>
+  )
+}
+
+export default BlogIndex
+
+export const pageQuery = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+  }
+`

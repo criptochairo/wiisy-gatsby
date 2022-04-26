@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `What If I Say Yes?`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Lucía Cárdenas`,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Personal blog for Lucía Cárdenas.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
-    },
+    }
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -88,6 +88,7 @@ module.exports = {
             query: `
               {
                 allMarkdownRemark(
+                  filter: {frontmatter: { section: { eq: true } } },
                   sort: { order: DESC, fields: [frontmatter___date] },
                 ) {
                   nodes {
@@ -121,7 +122,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/logo.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
