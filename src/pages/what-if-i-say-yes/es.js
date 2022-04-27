@@ -2,7 +2,7 @@ import React from "react"
 import first from '../../images/Resources/Pics/wiisy/YSDQI1.jpg'
 import second from '../../images/Resources/Pics/wiisy/YSDQI2.jpg' 
 import third from '../../images/Resources/Pics/wiisy/YSDQI3.jpg'
-import logo from '../../images/Resources/Icons/logo-final.jpeg'
+import logo from '../../images/Resources/Icons/logo-final-es.jpg'
 import hector from '../../images/Resources/Pics/wiisy/hector.jpg'
 import NavEs from "../../components/NavEs"
 import Seo from "../../components/seo"

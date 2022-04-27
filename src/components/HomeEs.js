@@ -42,8 +42,8 @@ const Home = () => {
                 <p className="container-text">Soy toda oídos. ¿Me mandan sus preguntas y comentarios?</p>
             </div>
 
-            <div className="footer">
-            <h3>Suscríbanse para recibir mi boletín semanal por correo electrónico. Los inspirará a probar cosas nuevas al permitirse decir que ¡SÍ! Próximamente...</h3><br /><br />
+            <div className="footer-wrapper">
+            <h3 className="footer">Suscríbanse para recibir mi boletín semanal por correo electrónico. Los inspirará a probar cosas nuevas al permitirse decir que ¡SÍ! Próximamente...</h3><br /><br />
             </div>
             
         </div>

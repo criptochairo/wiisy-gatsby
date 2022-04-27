@@ -18,7 +18,7 @@ function Board() {
             Después de hacer mis propias reflexiones, a mí me gusta mucho preguntarle a la gente que conozco qué opinan sobre tal o cual tema. Siento que siempre aprendo algo de alguien. Me abre a nuevas maneras de ver el mundo.
             <br /><br />
 
-            Este espacio es para que compartan sus anécdotas relacionadas con sus propios procesos de <b><i>"¿y si digo que sí"</i></b>. Aquí pueden plantear sus dudas, contarnos de sus miedos y resistencias, pero también compartir las veces en las que ese <b><i>!sí!</i></b> les ha cambiado la vida, aunque sea de maneras muy modestas. Dejo entonces este pizarrón para que escriban y compartan... <strong>(coming soon).</strong>
+            Este espacio es para que compartan sus anécdotas relacionadas con sus propios procesos de <b><i>"¿y si digo que sí"</i></b>. Aquí pueden plantear sus dudas, contarnos de sus miedos y resistencias, pero también compartir las veces en las que ese <b><i>¡sí!</i></b> les ha cambiado la vida, aunque sea de maneras muy modestas. Dejo entonces este pizarrón para que escriban y compartan... <strong>(próximamente).</strong>
             <br /><br />
             
             </p>
