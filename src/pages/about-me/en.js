@@ -55,9 +55,9 @@ const Hector = () => {
                 This space is in your honor, dearest brother!<br /><strong>WE LOVE YOU!</strong>
                 <br /><strong>¡TE QUEREMOS MUCHO!</strong><br /><br />
 
-                <StaticImage src="../../images/Resources/Pics/lucy1.JPG" alt="wiisy-logo" className="header-img" />
-
             </p>
+
+            <StaticImage src="../../images/Resources/Pics/lucy1.JPG" alt="wiisy-logo" className="header-img" />
 
             <GoTop />
 
