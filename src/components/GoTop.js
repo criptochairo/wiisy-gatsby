@@ -21,8 +21,10 @@ export default function GoTop() {
           behavior: 'smooth'
         });
     }
+  
+  const isBrowser = () => typeof window !== "undefined"
 
-    window.addEventListener('scroll', toggleVisible)
+  isBrowser() && window.addEventListener('scroll', toggleVisible)
 
     return (
     <button><BsFillArrowUpCircleFill className="gotop" onClick={scrollToTop} style={{display: visible ? 'inline' : 'none'}} aria-label="gotop" /></button>
