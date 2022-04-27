@@ -349,6 +349,11 @@ nav {
   z-index: 101;
 }
 
+.link {
+  display: flex;
+  flex-direction: column;
+}
+
 .nav-links {
   width: 55%;
   display: flex;

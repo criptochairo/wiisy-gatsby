@@ -10,6 +10,13 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
 
+  let back
+  if(location.pathname.includes("/es")) {
+    back = <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/es">Regresar al Blog</Link>
+  } else {
+    back = <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/en">Back to Blog</Link>
+  }
+
   return (
     <Layout location={location} title={siteTitle}>
       <Seo
@@ -32,6 +39,7 @@ const BlogPostTemplate = ({ data, location }) => {
         <hr />
         <footer>
           <Bio />
+          {back}
           <GoBack />
         </footer>
       </article>
