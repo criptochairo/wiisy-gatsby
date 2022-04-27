@@ -520,6 +520,11 @@ img {
   height: auto;
 }
 
+.flag {
+  width: 4em;
+  height: auto;
+}
+
 .section-container {
   width: 30em;
   margin: 5em auto;
@@ -537,6 +542,15 @@ img {
 }
 
 .section-container img {
+  width: 19em;
+  height: auto;
+  margin-top: 1em;
+  display: flex;
+  align-self: center;
+  border-radius: 15px;
+}
+
+.home-img {
   width: 19em;
   height: auto;
   margin-top: 1em;
