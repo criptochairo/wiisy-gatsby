@@ -35,11 +35,13 @@ const BlogPostTemplate = ({ data, location }) => {
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
+          className="content-text"
         />
         <hr />
         <footer>
           <Bio />
           {back}
+          <br />
           <GoBack />
         </footer>
       </article>

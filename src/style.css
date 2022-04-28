@@ -871,8 +871,15 @@ h3 {
   }
 
   .content-text {
-      width: 100%;
+      width: 90%;
       font-size: 1.5em;
+      margin: 0 auto;
+      word-break: normal;
+  }
+
+  .gotop {
+    width: 2.5em;
+    height: 2.5em;
   }
 
   .section-container {
@@ -926,6 +933,10 @@ h3 {
 
   .post-img-container img {
     width: 90%;
+  }
+
+  .gatsby-resp-image-wrapper {
+    width: 75%;
   }
 
 }
