@@ -46,7 +46,7 @@ function Podcast({ data, location }) {
                 <p style={{ textAlign: 'center' }}>------------------------</p>
                 
                 <div>
-                    <h1>{lastPost.frontmatter.title}</h1>
+                    <h1 className='post-title' >{lastPost.frontmatter.title}</h1>
                     <h4>{lastPost.frontmatter.date}</h4>
                     <p className='content-text'
                       dangerouslySetInnerHTML={{ __html: lastPost.html }}

@@ -872,7 +872,7 @@ h3 {
 
   .content-text {
       width: 100%;
-      font-size: 2em;
+      font-size: 1.5em;
   }
 
   .section-container {
@@ -891,8 +891,17 @@ h3 {
 
 
   h1 {
-      font-size: 3em;
+      font-size: 2.5em;
       margin-top: 1em;
+      margin-bottom: 0.6em;
+  }
+
+  h2 span {
+    font-size: 1.75em;
+  }
+
+  .post-title {
+    font-size: 2em;
   }
 
   .hector img {
@@ -909,7 +918,7 @@ h3 {
   }
 
   .post-img-container {
-    width: 12em;
+    width: 11em;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -954,7 +963,8 @@ h3 {
     }
   
   h1 {
-      margin: 0;
+      margin-top: 0.5em;
+      margin-bottom: 0;
   }
 
   .section-container {
