@@ -9,4 +9,4 @@ Cookies really likes to move her body and in this video, she shows us 20 of her 
 
 Enjoy it!
 
-[Watch the video here!](https://youtu.be/8I1UchJSccQ)
+[Watch the video here!](https://www.youtube.com/watch?v=7wydf4bqa5k)

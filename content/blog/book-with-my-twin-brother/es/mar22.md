@@ -13,4 +13,4 @@ En eso estamos trabajando ahora.
 
 ![Cover](../images/mar22-1.jpg)
 
-![Cover](../images/mar22-1.jpg)
+![Cover](../images/mar22-2.jpg)

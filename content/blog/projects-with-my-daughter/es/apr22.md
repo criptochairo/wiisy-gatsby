@@ -9,4 +9,4 @@ A Cookies le gusta mucho mover su cuerpo y en este video nos presenta 20 de sus 
 
 ¡Que lo disfruten!
 
-[¡Hagan click aquí para ver el video!](https://youtu.be/8I1UchJSccQ)
+[¡Hagan click aquí para ver el video!](https://www.youtube.com/watch?v=7wydf4bqa5k)
