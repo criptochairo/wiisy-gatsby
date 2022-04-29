@@ -1,6 +1,6 @@
 ---
 title: Diciembre
-date: "2021-12-15T00:00:00.000Z"
+date: "2021-12-01T00:00:00.000Z"
 description: "This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter."
 section: "motm-es"
 ---

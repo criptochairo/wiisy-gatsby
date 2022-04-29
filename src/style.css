@@ -388,6 +388,7 @@ nav a {
   color: white;
   padding: 0 0.5vh;
   list-style: none;
+  font-size: 1em;
 }
 
 a:hover {
@@ -802,10 +803,6 @@ h3 {
 }
 
 
-
-
-
-
 @media only screen and (max-width: 1440px) {
 
   .section-container {
@@ -817,7 +814,7 @@ h3 {
   }
 
   .nav-links {
-    width: 60%;
+    width: 80%;
   }
 
 }
@@ -828,8 +825,16 @@ h3 {
     width: 22em;
   }
 
+  nav {
+    height: 5em;
+  }
+
   .nav-links {
     width: 80%;
+  }
+
+  nav a {
+    font-size: 80%;
   }
 
   .home-img {

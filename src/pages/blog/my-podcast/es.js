@@ -15,12 +15,12 @@ function Podcast({ data, location }) {
 
     return (
         <Layout location={location} title={siteTitle}>
-        <Seo title="Mi Pódcast" />
+        <Seo title="Mi pódcast" />
         <div className="aboutme-page">
             <Nav />
             <div className="blog-text-container">
             <StaticImage src="../../../images/Resources/Icons/microphone.png" alt="wiisy-logo" className="blog-img" />
-            <h1>Mi Pódcast</h1><br />
+            <h1>Mi pódcast</h1><br />
 
                 <p class="content-text">
 
@@ -94,9 +94,9 @@ function Podcast({ data, location }) {
                 }
                 <br /><br />
 
-                <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al Blog</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-book/es"><h2>Siguiente Sección</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-photography/es"><h2>Sección Anterior</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al blog</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/my-book/es"><h2>Siguiente sección</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/my-photography/es"><h2>Sección anterior</h2></Link>
             
             </p>
 

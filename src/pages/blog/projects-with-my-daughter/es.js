@@ -88,9 +88,9 @@ function Photography({ data, location }) {
 
                 <br /><br />
 
-                <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al Blog</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice/es"><h2>Siguiente Sección</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-book/es"><h2>Sección Anterior</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al blog</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice/es"><h2>Siguiente sección</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/my-book/es"><h2>Sección anterior</h2></Link>
                                
             </p>
 
