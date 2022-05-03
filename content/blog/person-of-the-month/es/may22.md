@@ -35,7 +35,7 @@ Tenía como 9 años y un día me puse a llorar. Mucho. Los que dicen que los ni�
 
 ***6. Describe tu momento más reciente de "¿y si digo que sí?".***
 
-Un amigo terapeuta me invitó a su live en Facebook sobre la película de Encanto desde la perspectiva de la terapia familiar. Nunca lo había hecho, pero me alegró que me invitara, es un tipo muy cool. Creo que la alegría es una buena brújula para actuar, así que sin pensarlo mucho sino saboreando mi sonrisa le dije que sí.
+Un amigo terapeuta me invitó a su [live en Facebook](https://www.youtube.com/watch?app=desktop&v=LAYGFgtbIkw&feature=youtu.be) sobre la película de Encanto desde la perspectiva de la terapia familiar. Nunca lo había hecho, pero me alegró que me invitara, es un tipo muy cool. Creo que la alegría es una buena brújula para actuar, así que sin pensarlo mucho sino saboreando mi sonrisa le dije que sí.
 
 ***7. ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.***
 
