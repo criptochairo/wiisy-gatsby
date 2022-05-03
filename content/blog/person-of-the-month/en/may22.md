@@ -7,6 +7,12 @@ section: "potm"
 
 ![Monica](../images/may22.jpg)
 
+This month I chose a first cousin who has deep questions about life and human beings. She also has a creative vein that she uses to always explore those thousands of ideas that flutter through her mind. One of the memories I have of her when she was a baby and then a little child is that she didn't talk much…but when she finally started to talk, wow! She left us speechless at the clever things she said and the words she used. All that time she wasn´t talking, she sure was spending her time observing all of us and reflecting on what it meant to be a human being.
+
+As you will see below, Mon is now a woman of many talents.
+
+Here are my 10 questions that will help you to get to know her better:
+
 ***1. How would you describe yourself?***
 
 What I like most about myself is that I am creative. I take an idea and link it to another, and I ask questions with the outcome, exaggerate the idea to see what happens or draw it. Anyway. I always try to think of new things. I also like balance. A long time ago I decided that I always must read both sides of a debate. A supervisor would always listen to me tell the story of some patient and say, “ok, but what if the story was the other way around?” I love that question because it opens up the mind to other paths. I think that doubting is always necessary.

@@ -23,7 +23,7 @@ function Photography({ data, location }) {
             <p class="content-text">
             En esta sección quiero compartir con ustedes las historias de la gente que he conocido y que ejemplifica perfectamente la filosofía del <b>"¿y si digo que sí!"</b>.
             <br /><br />
-            Conocerán a personas que, en distintos momentos de sus vidas, se han atrevido a decir que <i><b>!sí!</b></i> y han iniciado proyectos de lo más interesantes.
+            Conocerán a personas que, en distintos momentos de sus vidas, se han atrevido a decir que <i><b>¡sí!</b></i> y han iniciado proyectos de lo más interesantes.
             <br /><br />
             Son la gente que me inspira a seguir adelante y que me recuerda que vale la pena vivir.
             <br /><br />

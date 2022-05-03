@@ -7,6 +7,12 @@ section: "potm-es"
 
 ![Monica](../images/may22.jpg)
 
+Este mes escogí a una prima hermana que es de preguntas profundas sobre la vida y los seres humanos. Tiene, además, una veta creativa que usa para explorar esas miles de ideas que revolotean por su mente en todo momento. Uno de los recuerdos que tengo de cuando era una bebita y luego una niña es que no hablaba mucho… pero cuando empezó a hacerlo, ¡guau! Nos dejó con la boca abierta de las cosas tan inteligentes que decía y de las palabras que usaba. Todo ese tiempo que no habló, seguro se la pasó observándonos a todas y todos y reflexionando sobre lo que significaba ser una ser humana.
+
+Como verán aquí abajo, Mon es ahora una mujer de muchos talentos.
+
+He aquí mis 10 preguntas para que lo conozcan mejor:
+
 ***1. ¿Cómo te describirías a ti misma?***
 
 Lo que más me gusta de mí es que soy creativa. Tomo una idea y la uno a otra y hago preguntas con el resultado, o la exagero a ver qué pasa, o la dibujo, en fin. Trato de pensar siempre cosas nuevas. También me gusta el equilibrio. Hace tiempo decidí que siempre tengo que leer las dos partes de un debate. Una supervisora siempre me escuchaba contar la historia de algún paciente y me decía, ok, ¿pero y si la historia fuera al revés? Me encanta esa pregunta porque abre la mente a otros caminos; creo que dudar es necesario siempre.
