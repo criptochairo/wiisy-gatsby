@@ -18,7 +18,7 @@ function Photography({ data, location }) {
             <Nav />
             <div className="blog-text-container"> 
             <StaticImage src="../../../images/Resources/Icons/month.png" alt="logo" className="blog-img" />
-            <h1>Momento del Mes</h1> <br />
+            <h1>Momento del mes</h1> <br />
 
 
             <p class="content-text"> 

@@ -127,7 +127,7 @@ He ido aprendiendo de la gente que ha rodeado mi vida, la mayoría de las veces 
 
 ***9. ¿Cuál será tu próximo momento de “¿y qué pasa si digo que sí?”***
 
-Hacer una carrera universitaria. ¿Sabes? No tengo un título profesional y siempre lo he deseado. Admiro y respeto a la gente que obtiene títulos. Hoy en día sigo estudiando y perfeccionándome. Considero que soy competente y tengo las capacidades y habilidades para realizar los cargos y trabajos que desempeño; pero, quiero tener mi título en la licenciatura en Actuación o Arte dramático.
+Hacer otra carrera universitaria. Hoy en día sigo estudiando y perfeccionándome. Considero que soy competente y tengo las capacidades y habilidades para realizar los cargos y trabajos que desempeño; pero, quiero tener mi título en la licenciatura en Actuación o Arte dramático.
 
 ***10. ¿Qué has aprendido del proceso "¿y qué pasa si digo que sí"?***
 

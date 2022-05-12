@@ -66,6 +66,10 @@ function Photography({ data, location }) {
                     <i><b>Abril</b></i><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/apr.jpg" alt="logo" />
                     <i>“Dos estaciones al mismo tiempo”</i><br />
+                    ------------------------<br /><br />
+                    <i><b>Mayo</b></i><br />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/may.jpg" alt="logo" />
+                    <i>“La madre de todas las hojas (de maple)…”</i><br />
                 </div>
 
                 <br/><br/>

@@ -18,7 +18,7 @@ function Photography({ data, location }) {
           <Nav />
           <div className="blog-text-container"> 
           <StaticImage src="../../../images/Resources/Icons/grandma.png" alt="logo" className="blog-img" />
-          <h1>Abuelita Recomienda</h1> <br />
+          <h1>Abuelita recomienda</h1> <br />
 
           <p class="content-text">
           Mi mamá (sus nietos le dicen “Abuelita”) dedicó gran parte de su vida a criar a 3 hijos y 2 hijas, y luego a ayudar en la crianza de sus 3 nietas y 3 nietos. El tiempo que le quedaba para sí misma era mínimo y aun así siempre encontró la manera de mantener su curiosidad por aprender.
