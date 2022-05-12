@@ -131,7 +131,7 @@ I have been learning from the people in my life, most of the time it's been in l
 
 ***9. What will be your next “What If I Say Yes” moment?***
 
-Pursue a university degree. You know? I don't have a professional degree and have always wanted one. I admire and respect people who get a degree. Currently, I keep studying and perfecting my skills. I consider myself competent and with the skills and abilities to perform the positions and jobs that I perform; but, I want to have a degree in Acting or Dramatic Art.
+Pursue an additional university degree. Currently, I keep studying and perfecting my skills. I consider myself competent and with the skills and abilities to perform the positions and jobs that I perform; but, I want to have a degree in Acting or Dramatic Art.
 
 ***10. What have you learned from the “What If I Say Yes” process?***
 
