@@ -68,6 +68,12 @@ function Photography({ data, location }) {
                     <i><b>May</b></i><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/may.jpg" alt="logo" />
                     <i>“The mother of all (maple) leaves…”</i><br />
+                    ------------------------<br /><br />
+                    <div className="post-img-container" style={{display: "none"}}>
+                    <i><b>May</b></i><br />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/jun.jpg" alt="logo" />
+                    <i>“Nature's calligraphy…”</i><br />
+                    </div>
                 </div>
 
                 <br/><br/>
