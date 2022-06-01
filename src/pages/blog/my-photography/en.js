@@ -19,7 +19,7 @@ function Photography({ data, location }) {
 
             <p className="content-text">
 
-                In December 2020, I <b>started taking photographs</b> during my daily outdoor walks. It was my way of relieving stress after several months, mostly indoors at home during the beginnings of the pandemic. Taking photos made me <b>observe</b> more closely what nature has to offer. <br /><br />I started <b>seeing</b> things in new ways. I took my time to breathe, process, and enjoy life by looking at and being with nature.<br /><br />
+                {/* In December 2020, I <b>started taking photographs</b> during my daily outdoor walks. It was my way of relieving stress after several months, mostly indoors at home during the beginnings of the pandemic. Taking photos made me <b>observe</b> more closely what nature has to offer. <br /><br />I started <b>seeing</b> things in new ways. I took my time to breathe, process, and enjoy life by looking at and being with nature.<br /><br />
 
                 And then one day, I thought, what if I start sharing my photos with those I love? And not only that, what if I could create a playful experience for them? And so I shared my pictures with them and a special descriptive and creative caption.    
                 <br /><br />
@@ -28,11 +28,11 @@ function Photography({ data, location }) {
                 I hope to inspire you to start seeing your world from a different lens… one that is more attentive, patient, loving and understanding. 
                 <br /><br />
                 If you do that, I can assure you will start feeling better about your own life.
-                <br /><br />
+                <br /><br /> */}
                 
                 <br /><p style={{ textAlign: 'center' }}>------------------------</p><br /> 
 
-                <i>January 11, 2022</i> <br /><br />
+                {/* <i>January 11, 2022</i> <br /><br />
 
 
                 I took more than 500 photographs on my daily walks. Over time I improved my eye and my attention to detail. I began to see with the eyes of a photographer and then when I saw something beautiful in nature, I immediately framed it in my mind, even before taking out the phone to use the camera. <br/><br/>
@@ -45,7 +45,7 @@ function Photography({ data, location }) {
 
                 I will tell you here how we are progressing with this project.<br/><br/>
                 
-                In the meantime, here is a sample of what I photographed from December 13, 2020, to December 13, 2021:<br/><br/><br/><br/>
+                In the meantime, here is a sample of what I photographed from December 13, 2020, to December 13, 2021:<br/><br/><br/><br/> */}
             
 
                 <div className="post-img-container">
@@ -69,8 +69,8 @@ function Photography({ data, location }) {
                     <StaticImage src="../../../images/Resources/Pics/Photography/may.jpg" alt="logo" />
                     <i>“The mother of all (maple) leaves…”</i><br />
                     ------------------------<br /><br />
-                    <div className="post-img-container" style={{display: "none"}}>
-                    <i><b>May</b></i><br />
+                    <div className="post-img-container">
+                    <i><b>June</b></i><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/jun.jpg" alt="logo" />
                     <i>“Nature's calligraphy…”</i><br />
                     </div>

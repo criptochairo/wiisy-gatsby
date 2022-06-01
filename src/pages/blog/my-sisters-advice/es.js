@@ -21,7 +21,7 @@ function Photography({ data, location }) {
             <h1>Consejos de mi hermana</h1> <br />
 
                 <p class="content-text">
-                La mujer más importante en mi vida, después de mi mamá, es mi hermana Rocío.
+                {/* La mujer más importante en mi vida, después de mi mamá, es mi hermana Rocío.
                 <br /><br />
                 Es más grande que yo y por tanto le ha tocado abrir brecha para que cuando me toque pasar por ahí, la vida me sea menos difícil.
                 <br /><br />
@@ -34,7 +34,7 @@ function Photography({ data, location }) {
                 Este espacio pretende ser un lugar divertido para escuchar, aprender y considerar una perspectiva nueva.
                 <br /><br />
                 Rocío y yo esperamos que lo disfruten.
-                <br /><br />
+                <br /><br /> */}
                 
                 <p style={{ textAlign: 'center' }}>------------------------</p>
                 

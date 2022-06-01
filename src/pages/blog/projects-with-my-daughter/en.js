@@ -22,7 +22,7 @@ function Photography({ data, location }) {
             <h1>Projects with My Daughter</h1> <br />
 
                 <p class="content-text">
-                One of the silver linings of the pandemic was that I found new ways to get close to my daughter Maya. For several months, being together all day was a challenge ... until one day, we discovered that we could create things together.
+                {/* One of the silver linings of the pandemic was that I found new ways to get close to my daughter Maya. For several months, being together all day was a challenge ... until one day, we discovered that we could create things together.
                 <br /><br />
                 In the summer of 2021, several of her cousins graduated from junior high and senior high school. To celebrate them from a distance, we made a video with a significant character in Maya's life named Cookies.
                 <br /><br />
@@ -33,7 +33,7 @@ function Photography({ data, location }) {
                 We will share some of the videos we created together (Maya, Cookies and I) in this section.
                 <br /><br />
                 I hope it inspires you to collaborate with someone else and create visual projects to share them with the world too!
-                <br /><br />
+                <br /><br /> */}
                 
                 <p style={{ textAlign: 'center' }}>------------------------</p>
                 

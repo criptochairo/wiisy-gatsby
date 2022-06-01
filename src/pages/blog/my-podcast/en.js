@@ -24,7 +24,7 @@ function Podcast({ data, location }) {
 
                 <p class="content-text">
 
-                One day, reflecting with my husband and daughter about the meaning of my life and answering their questions, I concluded that I wanted to try something new that made me very nervous but at the same time excited; that is, to create my podcast. 
+                {/* One day, reflecting with my husband and daughter about the meaning of my life and answering their questions, I concluded that I wanted to try something new that made me very nervous but at the same time excited; that is, to create my podcast. 
                 <br /><br />
                 Thanks to the pandemic, I had started listening to many podcasts and had fallen in love with this personal form of communication.
                 <br /><br />
@@ -41,7 +41,7 @@ function Podcast({ data, location }) {
                 My mother tongue is Spanish, so I record it in Spanish. I still haven't gotten myself into saying <i>what if I say yes to recording it in English?</i> That still scares me because my pronunciation isn't perfect, and I'm afraid I will end up saying something that sounds like something else, ha-ha. But in the spirit of this website, I will say <b><i>yes!</i></b> to presenting my podcast in English one day.
                 <br /><br />
                 In the meantime, I will write here about what I talk about in my various episodes to inspire you to do the same: learn to give away your own words, and who knows, maybe also create your podcast someday!
-                <br /><br />
+                <br /><br /> */}
                 
                 <p style={{ textAlign: 'center' }}>------------------------</p>
                 

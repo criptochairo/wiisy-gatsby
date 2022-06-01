@@ -22,7 +22,7 @@ function Photography({ data, location }) {
 
 
             <p class="content-text"> 
-            El momento del mes es una sección que estará a cargo de mi hija Maya y mi esposo Carlos. 
+            {/* El momento del mes es una sección que estará a cargo de mi hija Maya y mi esposo Carlos. 
             <br /><br />
             Querían participar en este espacio y dije que <b><i>!sí!</i></b> <span role="img" aria-label="smile">😄</span>
             <br /><br />
@@ -31,7 +31,7 @@ function Photography({ data, location }) {
             Es un espacio para animarlos a ustedes a reflexionar sobre cómo vivieron el mes que pasó y a elegir un momento que quieran recordar por siempre.
             <br /><br />
             Maya y Carlos esperan que les guste lo que van a compartir con ustedes.
-            <br /><br />
+            <br /><br /> */}
                 
             <p style={{ textAlign: 'center' }}>------------------------</p>
           

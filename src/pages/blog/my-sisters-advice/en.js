@@ -21,7 +21,7 @@ function Photography({ data, location }) {
             <h1>My Sister's Advice</h1> <br />
 
                 <p class="content-text">
-                The most important woman in my life, after my mother, is my sister Rocío.
+                {/* The most important woman in my life, after my mother, is my sister Rocío.
                 <br /><br />
                 She is older and has opened many paths to make life less complicated for me when I go throught it.
                 <br /><br />
@@ -34,7 +34,7 @@ function Photography({ data, location }) {
                 This space is intended to be fun while we learn and consider a new perspective.
                 <br /><br />
                 Rocío and I hope you enjoy it.
-                <br /><br />
+                <br /><br /> */}
                 
                 <p style={{ textAlign: 'center' }}>------------------------</p>
                 

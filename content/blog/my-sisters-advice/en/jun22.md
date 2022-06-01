@@ -2,7 +2,7 @@
 title: June
 date: "2022-06-01T00:00:00.000Z"
 description: "This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter."
-section: "sister-pending"
+section: "sister"
 ---
 
 **Dear sister, how do you think a family can best decide where to live, taking into account all family members?**

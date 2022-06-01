@@ -21,7 +21,7 @@ function Photography({ data, location }) {
             <h1>Book with My Twin Brother</h1> <br />
 
                 <p className="content-text">
-                My twin brother Jorge and I turned 50 this past summer (2021), and to celebrate in a big way, I thought we could create a book together and publish it through Amazon without a publisher involved and without depending on others telling us if they liked our project or not.
+                {/* My twin brother Jorge and I turned 50 this past summer (2021), and to celebrate in a big way, I thought we could create a book together and publish it through Amazon without a publisher involved and without depending on others telling us if they liked our project or not.
                 <br /><br />
                 I consulted with my brother, and he said <i><b>yes!</b></i>
                 <br /><br />
@@ -36,7 +36,7 @@ function Photography({ data, location }) {
                 The idea is to inspire you to do the same: self-publishing is a way to bring out our most sincere and most profound thoughts and share them with the world without any unnecessary publishing barriers.
                 <br /><br />
                 In sum, in this section, I will tell you about our creative process and update you on our progress.
-                <br /><br />
+                <br /><br /> */}
                 
                 <p style={{ textAlign: 'center' }}>------------------------</p>
                 

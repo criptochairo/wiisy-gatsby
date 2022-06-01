@@ -22,7 +22,7 @@ function Photography({ data, location }) {
             <h1>Proyectos con mi hija</h1> <br />
 
                 <p class="content-text">
-                Uno de los rayitos de luz de la pandemia fue que encontré nuevas maneras de acercarme a mi hija Maya. Estar juntas durante varios meses fue todo un reto... hasta que un día descubrimos que podíamos crear cosas juntas.
+                {/* Uno de los rayitos de luz de la pandemia fue que encontré nuevas maneras de acercarme a mi hija Maya. Estar juntas durante varios meses fue todo un reto... hasta que un día descubrimos que podíamos crear cosas juntas.
                 <br /><br />
                 En el verano del 2021, varios de sus primos/as se graduaron de secundaria y preparatoria y para celebrar a la distancia hicimos un video con un personaje muy importante en la vida de Maya: Cookies.
                 <br /><br />
@@ -33,7 +33,7 @@ function Photography({ data, location }) {
                 En este espacio compartiremos algunos de los videos que hemos creado juntas (Maya, Cookies y yo).
                 <br /><br />
                 Espero que los inspire a crear proyectos visuales y a ¡compartirlos con el mundo!
-                <br /><br />
+                <br /><br /> */}
                 
                 <p style={{ textAlign: 'center' }}>------------------------</p>
                 

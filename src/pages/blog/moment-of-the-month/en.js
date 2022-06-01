@@ -22,7 +22,7 @@ function Photography({ data, location }) {
 
 
             <p class="content-text"> 
-            My daughter Maya and my husband Carlos will oversee this section. 
+            {/* My daughter Maya and my husband Carlos will oversee this section. 
             <br /><br />
             They wanted to participate in my website, and I said <b><i>yes!</i></b> <span role="img" aria-label="smile">😄</span>
             <br /><br />
@@ -31,7 +31,7 @@ function Photography({ data, location }) {
             It is a space to encourage you to reflect on how you lived the past month by choosing a moment you want to remember forever.
             <br /><br />
             Maya and Carlos hope that you will like what they share with you. 
-            <br /><br />
+            <br /><br /> */}
                 
             <p style={{ textAlign: 'center' }}>------------------------</p>
           

@@ -21,7 +21,7 @@ function Photography({ data, location }) {
             <h1>La persona <i>¿Y si digo que sí?</i> del mes</h1> <br /><br />
 
             <p class="content-text">
-            En esta sección quiero compartir con ustedes las historias de la gente que he conocido y que ejemplifica perfectamente la filosofía del <b>"¿y si digo que sí!"</b>.
+            {/* En esta sección quiero compartir con ustedes las historias de la gente que he conocido y que ejemplifica perfectamente la filosofía del <b>"¿y si digo que sí!"</b>.
             <br /><br />
             Conocerán a personas que, en distintos momentos de sus vidas, se han atrevido a decir que <i><b>¡sí!</b></i> y han iniciado proyectos de lo más interesantes.
             <br /><br />
@@ -29,7 +29,7 @@ function Photography({ data, location }) {
             <br /><br />
             Espero que este espacio los inspire a expresar lo mejor de sí mismos en las distintas áreas de su interés.
             <br /><br />
-            ¡Buena suerte!<br /><br /> 
+            ¡Buena suerte!<br /><br />  */}
                 
             <p style={{ textAlign: 'center' }}>------------------------</p>
           

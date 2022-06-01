@@ -19,7 +19,7 @@ function Photography({ data, location }) {
 
             <p className="content-text">
 
-                En diciembre del 2020 comencé a <b>tomar fotografías</b> durante mis caminatas diarias al aire libre. Era mi forma de procesar mi estrés después de varios meses de estar en casa por la pandemia. Tomar fotos me hizo <b>observar</b> más de cerca lo que la naturaleza tiene que ofrecer.
+                {/* En diciembre del 2020 comencé a <b>tomar fotografías</b> durante mis caminatas diarias al aire libre. Era mi forma de procesar mi estrés después de varios meses de estar en casa por la pandemia. Tomar fotos me hizo <b>observar</b> más de cerca lo que la naturaleza tiene que ofrecer.
                 <br /><br />
                 Empecé a <b>ver</b> las cosas de una manera nueva. Me tomé mi tiempo para respirar, procesar y disfrutar la vida mirando y estando con la naturaleza.
                 <br /><br />
@@ -30,11 +30,11 @@ function Photography({ data, location }) {
                 Espero inspirarlos a comenzar a ver su mundo desde un lente diferente… uno que sea más atento, paciente, amoroso y comprensivo. 
                 <br /><br />
                 Si lo hacen, les puedo asegurar que comenzarán a sentirse mejor sobre sus propias vidas.
-                <br /><br />
+                <br /><br /> */}
                 
                 <br /><p style={{ textAlign: 'center' }}>------------------------</p><br /> 
 
-                <i>January 11, 2022</i> <br /><br />
+                {/* <i>January 11, 2022</i> <br /><br />
 
 
                 I took more than 500 photographs on my daily walks. Over time I improved my eye and my attention to detail. I began to see with the eyes of a photographer and then when I saw something beautiful in nature, I immediately framed it in my mind, even before taking out the phone to use the camera. <br/><br/>
@@ -47,7 +47,7 @@ function Photography({ data, location }) {
 
                 I will tell you here how we are progressing with this project.<br/><br/>
                 
-                In the meantime, here is a sample of what I photographed from December 13, 2020, to December 13, 2021:<br/><br/><br/><br/>
+                In the meantime, here is a sample of what I photographed from December 13, 2020, to December 13, 2021:<br/><br/><br/><br/> */}
             
 
                 <div className="post-img-container">
@@ -71,8 +71,8 @@ function Photography({ data, location }) {
                     <StaticImage src="../../../images/Resources/Pics/Photography/may.jpg" alt="logo" />
                     <i>“La madre de todas las hojas (de maple)…”</i><br />
                     ------------------------<br /><br />
-                    <div className="post-img-container" style={{display: "none"}}>
-                    <i><b>Mayo</b></i><br />
+                    <div className="post-img-container">
+                    <i><b>Junio</b></i><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/jun.jpg" alt="logo" />
                     <i>“Caligrafía de la naturaleza…”</i><br />
                     </div>

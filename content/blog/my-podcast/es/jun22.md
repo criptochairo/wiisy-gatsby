@@ -1,8 +1,8 @@
 ---
-title: Abril
+title: Junio
 date: "2022-05-01T00:00:00.000Z"
 description: "This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter."
-section: "my-podcast-es-pending"
+section: "my-podcast-es"
 ---
 ![PostImg](../images/jun22.jpg)
 
