@@ -19,7 +19,7 @@ Here are the answers Kristen sent me to my 10 questions:
 
 ***1. How would you describe yourself?***
 
-I am someone who has a hard time with “Nos.” I have perhaps an unusual level of self-confidence. I get an idea or decide I want to learn how to do something, I am usually confident that I can achieve a basic mastery. I have a lot of energy and am curious. I also love to work with my hands and to be outside. I’ve always gravitated to things that are outside the social norm or an unusual challenge – working construction as a woman, learning new languages, and homeschooling our children, to name a few. I am someone who can’t sit still and feels like there are never enough hours in the day to accomplish everything I would have liked to have done that day!
+I am someone who has a hard time with “Nos.” I have perhaps an unusual level of self-confidence. I get an idea or decide I want to learn how to do something, I am usually confident that I can achieve a basic mastery. I have a lot of energy and am curious. I also love to work with my hands and to be outside. I’ve always gravitated to things that are outside the social norm or an unusual challenge – working in construction as a woman, learning new languages, and homeschooling our children, to name a few. I am someone who can’t sit still and feels like there are never enough hours in the day to accomplish everything I would have liked to have done that day!
 
 ***2. What do you want from life?***
 

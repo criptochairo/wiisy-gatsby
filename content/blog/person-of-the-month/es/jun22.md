@@ -9,7 +9,7 @@ section: "potm-es"
 
 Recién llegada a Ithaca conocí a esta mujer espectacular: Kristen.
 
-Recuerdo que una de las primeras cosas que supe de ella es que estaba educando a sus dos hijos varones en la casa, lo que acá le llaman homeschooling. Y eso me dejó con la boca abierta… en buen plan.
+Recuerdo que una de las primeras cosas que supe de ella es que estaba educando a sus dos hijos varones en la casa, lo que acá le llaman *homeschooling*. Y eso me dejó con la boca abierta… en buen plan.
 
 Poco a poco me fui enterando del maravilloso camino que Kristen se ha ido forjando en esta vida, no solo para ser feliz ella sino para ayudar a otras personas, en especial, a las que más lo necesitan.
 

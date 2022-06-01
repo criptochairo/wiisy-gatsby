@@ -7,7 +7,7 @@ section: "abuelita-es"
 
 ![PostImg](../images/jun22.jpg)
 
-**Este mes, Abuelita recomienda una sopa deliciosa. He aquí sus instrucciones:**
+**Este mes, Abuelita recomienda una sopa fría de aguacate deliciosa. He aquí sus instrucciones:**
 
 **Ingredientes:**
 
