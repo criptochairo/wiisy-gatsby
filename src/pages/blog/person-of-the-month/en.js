@@ -1,4 +1,4 @@
-import React from "react"
+import React, {useState} from 'react'
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Nav from "../../../components/Nav"
@@ -10,6 +10,7 @@ function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const posts = data.allMarkdownRemark.nodes;
     const lastPost = posts[0];
+    const [showText, setShowText] = useState(false);
 
     return (
         <Layout location={location} title={siteTitle}>
@@ -20,18 +21,29 @@ function Photography({ data, location }) {
             <StaticImage src="../../../images/Resources/Icons/wreath.png" alt="logo" className="blog-img" />
             <h1>The <i>What If I Say Yes</i> Person of the Month</h1> <br /><br />
 
-            <p class="content-text">
-            {/* In this section, I want to share the stories of the people I have met who perfectly exemplify the <b>"What If I Say Yes!"</b> philosophy.
-            <br /><br />
-            You will meet people who have dared to say <i><b>yes!</b></i> at different times in their lives and have started exciting projects along the way.
-            <br /><br />
-            They are the people who inspire me to keep going and the ones who remind me that life is worth living.
-            <br /><br />
-            I hope this space inspires you to express yourself the best you can, depending on your different areas of interest.
-            <br /><br />
-            Good luck!<br /><br />  */}
+            <React.Fragment>
+              {showText &&
                 
-            <p style={{ textAlign: 'center' }}>------------------------</p>
+                <p class="content-text">
+
+                In this section, I want to share the stories of the people I have met who perfectly exemplify the <b>"What If I Say Yes!"</b> philosophy.
+                <br /><br />
+                You will meet people who have dared to say <i><b>yes!</b></i> at different times in their lives and have started exciting projects along the way.
+                <br /><br />
+                They are the people who inspire me to keep going and the ones who remind me that life is worth living.
+                <br /><br />
+                I hope this space inspires you to express yourself the best you can, depending on your different areas of interest.
+                <br /><br />
+                Good luck!<br /><br />
+                    
+                <p style={{ textAlign: 'center' }}>------------------------</p>
+
+                </p>}
+              {/* eslint-disable-next-line */}
+              <button onClick={() => setShowText(!showText)}><u><strong>Click here to read the intro for this section</strong></u></button>
+            </React.Fragment>
+
+            <p class="content-text">
           
             <div>
                 <h1 className='post-title' >{lastPost.frontmatter.title}</h1>

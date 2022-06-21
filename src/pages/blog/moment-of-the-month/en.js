@@ -1,4 +1,4 @@
-import React from "react"
+import React, {useState} from 'react'
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Nav from "../../../components/Nav"
@@ -10,30 +10,42 @@ function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const posts = data.allMarkdownRemark.nodes;
     const lastPost = posts[0];
+    const [showText, setShowText] = useState(false);
 
     return (
         <Layout location={location} title={siteTitle}>
-        <Seo title="Momenth of the Month" />
+        <Seo title="Momenth of Last Month" />
         <div className="aboutme-page">
             <Nav />
             <div className="blog-text-container"> 
             <StaticImage src="../../../images/Resources/Icons/month.png" alt="logo" className="blog-img" />
-            <h1>Moment of the Month</h1> <br />
+            <h1>Moment of Last Month</h1> <br />
+
+            <React.Fragment>
+              {showText &&
+                
+                <p class="content-text">
+
+                My daughter Maya and my husband Carlos will oversee this section. 
+                <br /><br />
+                They wanted to participate in my website, and I said <b><i>yes!</i></b> <span role="img" aria-label="smile">😄</span>
+                <br /><br />
+                Here they will talk about a moment of the month that was critical, fun, interesting, curious, etc., for them.
+                <br /><br />
+                It is a space to encourage you to reflect on how you lived the past month by choosing a moment you want to remember forever.
+                <br /><br />
+                Maya and Carlos hope that you will like what they share with you. 
+                <br /><br />
+                    
+                <p style={{ textAlign: 'center' }}>------------------------</p>
+
+                </p>}
+              {/* eslint-disable-next-line */}
+              <button onClick={() => setShowText(!showText)}><u><strong>Click here to read the intro for this section</strong></u></button>
+            </React.Fragment>
 
 
             <p class="content-text"> 
-            {/* My daughter Maya and my husband Carlos will oversee this section. 
-            <br /><br />
-            They wanted to participate in my website, and I said <b><i>yes!</i></b> <span role="img" aria-label="smile">😄</span>
-            <br /><br />
-            Here they will talk about a moment of the month that was critical, fun, interesting, curious, etc., for them.
-            <br /><br />
-            It is a space to encourage you to reflect on how you lived the past month by choosing a moment you want to remember forever.
-            <br /><br />
-            Maya and Carlos hope that you will like what they share with you. 
-            <br /><br /> */}
-                
-            <p style={{ textAlign: 'center' }}>------------------------</p>
           
             <div>
                 <h1 className='post-title' >{lastPost.frontmatter.title}</h1>

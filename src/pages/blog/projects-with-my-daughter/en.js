@@ -1,4 +1,4 @@
-import React from "react"
+import React, {useState} from 'react'
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Nav from "../../../components/Nav"
@@ -9,8 +9,8 @@ import { graphql } from "gatsby"
 function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const posts = data.allMarkdownRemark.nodes;
-
     const lastPost = posts[0];
+    const [showText, setShowText] = useState(false);
 
     return (
         <Layout location={location} title={siteTitle}>
@@ -21,8 +21,12 @@ function Photography({ data, location }) {
             <StaticImage src="../../../images/Resources/Icons/motherhood.png" alt="logo" className="blog-img" />
             <h1>Projects with My Daughter</h1> <br />
 
+            <React.Fragment>
+              {showText &&
+                
                 <p class="content-text">
-                {/* One of the silver linings of the pandemic was that I found new ways to get close to my daughter Maya. For several months, being together all day was a challenge ... until one day, we discovered that we could create things together.
+
+                One of the silver linings of the pandemic was that I found new ways to get close to my daughter Maya. For several months, being together all day was a challenge ... until one day, we discovered that we could create things together.
                 <br /><br />
                 In the summer of 2021, several of her cousins graduated from junior high and senior high school. To celebrate them from a distance, we made a video with a significant character in Maya's life named Cookies.
                 <br /><br />
@@ -33,10 +37,17 @@ function Photography({ data, location }) {
                 We will share some of the videos we created together (Maya, Cookies and I) in this section.
                 <br /><br />
                 I hope it inspires you to collaborate with someone else and create visual projects to share them with the world too!
-                <br /><br /> */}
+                <br /><br />
                 
                 <p style={{ textAlign: 'center' }}>------------------------</p>
-                
+
+                </p>}
+              {/* eslint-disable-next-line */}
+              <button onClick={() => setShowText(!showText)}><u><strong>Click here to read the intro for this section</strong></u></button>
+            </React.Fragment>
+
+                <p class="content-text">
+                                  
                 <div>
                     <h1 className='post-title' >{lastPost.frontmatter.title}</h1>
                     <h4>{lastPost.frontmatter.date}</h4>

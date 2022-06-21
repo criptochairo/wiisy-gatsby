@@ -1,4 +1,4 @@
-import React from "react"
+import React, {useState} from 'react'
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Nav from "../../../components/Nav"
@@ -10,6 +10,7 @@ function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const posts = data.allMarkdownRemark.nodes;
     const lastPost = posts[0];
+    const [showText, setShowText] = useState(false);
 
     return (
         <Layout location={location} title={siteTitle}>
@@ -20,8 +21,12 @@ function Photography({ data, location }) {
             <StaticImage src="../../../images/Resources/Icons/book.png" alt="logo" className="blog-img" />
             <h1>Book with My Twin Brother</h1> <br />
 
-                <p className="content-text">
-                {/* My twin brother Jorge and I turned 50 this past summer (2021), and to celebrate in a big way, I thought we could create a book together and publish it through Amazon without a publisher involved and without depending on others telling us if they liked our project or not.
+            <React.Fragment>
+              {showText &&
+                
+                <p class="content-text">
+
+                My twin brother Jorge and I turned 50 this past summer (2021), and to celebrate in a big way, I thought we could create a book together and publish it through Amazon without a publisher involved and without depending on others telling us if they liked our project or not.
                 <br /><br />
                 I consulted with my brother, and he said <i><b>yes!</b></i>
                 <br /><br />
@@ -36,9 +41,16 @@ function Photography({ data, location }) {
                 The idea is to inspire you to do the same: self-publishing is a way to bring out our most sincere and most profound thoughts and share them with the world without any unnecessary publishing barriers.
                 <br /><br />
                 In sum, in this section, I will tell you about our creative process and update you on our progress.
-                <br /><br /> */}
+                <br /><br />
                 
                 <p style={{ textAlign: 'center' }}>------------------------</p>
+
+                </p>}
+              {/* eslint-disable-next-line */}
+              <button onClick={() => setShowText(!showText)}><u><strong>Click here to read the intro for this section</strong></u></button>
+            </React.Fragment>
+
+                <p className="content-text">
                 
                 <div>
                     <h1 className='post-title' >{lastPost.frontmatter.title}</h1>
