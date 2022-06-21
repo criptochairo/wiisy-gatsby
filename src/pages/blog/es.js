@@ -60,7 +60,7 @@ function Blog() {
 
                 <div className="blog-container">
                     <Link to="/blog/moment-of-the-month/es"><img src={Week} alt="motm" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/moment-of-the-month/es"><h2>Momento del mes</h2></Link>
+                    <Link style={{ color: 'black'}} to="/blog/moment-of-the-month/es"><h2>Momento del mes pasado</h2></Link>
                 </div>
 
                 <div className="blog-container">

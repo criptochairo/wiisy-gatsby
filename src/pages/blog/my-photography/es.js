@@ -1,4 +1,4 @@
-import React from "react"
+import React, {useState} from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Nav from "../../../components/Nav"
@@ -8,6 +8,13 @@ import { graphql } from "gatsby"
 
 function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
+    const [showText, setShowText] = useState(false);
+    let buttonText
+    if (!showText) {
+      buttonText = "Haz click aquí para saber más sobre esta sección"
+    } else {
+      buttonText = ""
+    }
     return (
         <Layout location={location} title={siteTitle}>
         <Seo title="Mis fotografías" />
@@ -17,9 +24,12 @@ function Photography({ data, location }) {
             <StaticImage src="../../../images/Resources/Icons/camera.png" alt="logo" className="blog-img" />
             <h1>Mis fotografías</h1> <br />
 
-            <p className="content-text">
+            <React.Fragment>
+              {showText &&
+                
+                <p className="content-text"><br />
 
-                {/* En diciembre del 2020 comencé a <b>tomar fotografías</b> durante mis caminatas diarias al aire libre. Era mi forma de procesar mi estrés después de varios meses de estar en casa por la pandemia. Tomar fotos me hizo <b>observar</b> más de cerca lo que la naturaleza tiene que ofrecer.
+                En diciembre del 2020 comencé a <b>tomar fotografías</b> durante mis caminatas diarias al aire libre. Era mi forma de procesar mi estrés después de varios meses de estar en casa por la pandemia. Tomar fotos me hizo <b>observar</b> más de cerca lo que la naturaleza tiene que ofrecer.
                 <br /><br />
                 Empecé a <b>ver</b> las cosas de una manera nueva. Me tomé mi tiempo para respirar, procesar y disfrutar la vida mirando y estando con la naturaleza.
                 <br /><br />
@@ -30,25 +40,31 @@ function Photography({ data, location }) {
                 Espero inspirarlos a comenzar a ver su mundo desde un lente diferente… uno que sea más atento, paciente, amoroso y comprensivo. 
                 <br /><br />
                 Si lo hacen, les puedo asegurar que comenzarán a sentirse mejor sobre sus propias vidas.
-                <br /><br /> */}
+                <br /><br />
                 
                 <br /><p style={{ textAlign: 'center' }}>------------------------</p><br /> 
 
-                {/* <i>January 11, 2022</i> <br /><br />
+                <i>11 de enero del 2022</i> <br /><br />
 
+                Tomé más de 500 fotografías en mis caminatas diarias. Con el tiempo fui mejorando mi ojo y mi atención al detalle. Empecé a ver con ojos de fotógrafa y entonces veía algo lindo en la naturaleza y enseguida lo enmarcaba en mi mente, aún antes de sacar el teléfono para usar la cámara.
+                <br/><br/>
+                Mis fotos del principio son interesantes, pero algo les faltaba.
+                <br/><br/>
+                Las últimas me gustan mucho y como parece ser que a las personas con las que las compartí también les gustaron, decidimos que algún día las vamos a ofrecer aquí, en este sitio web, en una tiendita.
+                <br/><br/>
+                La idea es que a quien le gusten mis fotografías las pueda comprar y bajar como archivo digital para luego usarlas como quiera.
+                <br/><br/>
+                Aquí les iré contando cómo vamos progresando con respecto a este proyecto.
+                <br/><br/>
+                Mientras tanto, he aquí una muestra de lo que fotografié del 13 de diciembre del 2020 al 13 de diciembre del 2021:
 
-                I took more than 500 photographs on my daily walks. Over time I improved my eye and my attention to detail. I began to see with the eyes of a photographer and then when I saw something beautiful in nature, I immediately framed it in my mind, even before taking out the phone to use the camera. <br/><br/>
-                
-                My photos from the beginning are interesting but are missing something. <br/><br/>
-                
-                The last ones I like a lot and since it seems that the people with whom I shared them also liked them, we decided that one day we are going to offer them here, on this website, in a little store.<br/><br/>
+                </p>}
 
-                The idea is that whoever likes my photographs can buy and download them as a digital file and then use them however they want.<br/><br/>
+              {/* eslint-disable-next-line */}
+              <button onClick={() => setShowText(!showText)}><u><b>{buttonText}</b></u></button><br/>
+            </React.Fragment>
 
-                I will tell you here how we are progressing with this project.<br/><br/>
-                
-                In the meantime, here is a sample of what I photographed from December 13, 2020, to December 13, 2021:<br/><br/><br/><br/> */}
-            
+            <p className="content-text">           
 
                 <div className="post-img-container">
                     <i><b>Enero</b></i><br />

@@ -1,4 +1,4 @@
-import React from "react"
+import React, {useState} from 'react'
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Nav from "../../../components/Nav"
@@ -10,30 +10,48 @@ function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const posts = data.allMarkdownRemark.nodes;
     const lastPost = posts[0];
+    const [showText, setShowText] = useState(false);
+    let buttonText
+    if (!showText) {
+      buttonText = "Haz click aquí para saber más sobre esta sección"
+    } else {
+      buttonText = ""
+    }
 
     return (
         <Layout location={location} title={siteTitle}>
-        <Seo title="Momento del Mes" />
+        <Seo title="Momento del Mes Pasado" />
         <div className="aboutme-page">
             <Nav />
             <div className="blog-text-container"> 
             <StaticImage src="../../../images/Resources/Icons/month.png" alt="logo" className="blog-img" />
-            <h1>Momento del mes</h1> <br />
+            <h1>Momento del mes pasado</h1> <br />
+
+            <React.Fragment>
+              {showText &&
+                
+                <p className="content-text">
+
+                  El momento del mes es una sección que estará a cargo de mi hija Maya y mi esposo Carlos. 
+                  <br /><br />
+                  Querían participar en este espacio y dije que <b><i>!sí!</i></b> <span role="img" aria-label="smile">😄</span>
+                  <br /><br />
+                  Aquí van a hablar de algún momento del mes que se les hizo crítico, divertido, interesante, curioso y demás.
+                  <br /><br />
+                  Es un espacio para animarlos a ustedes a reflexionar sobre cómo vivieron el mes que pasó y a elegir un momento que quieran recordar por siempre.
+                  <br /><br />
+                  Maya y Carlos esperan que les guste lo que van a compartir con ustedes.
+                  <br /><br /><br /><br />
+                      
+                  <p style={{ textAlign: 'center' }}>------------------------</p>
+
+                </p>}
+              {/* eslint-disable-next-line */}
+              <button onClick={() => setShowText(!showText)}><u><strong>{buttonText}</strong></u></button>
+            </React.Fragment>
 
 
             <p class="content-text"> 
-            {/* El momento del mes es una sección que estará a cargo de mi hija Maya y mi esposo Carlos. 
-            <br /><br />
-            Querían participar en este espacio y dije que <b><i>!sí!</i></b> <span role="img" aria-label="smile">😄</span>
-            <br /><br />
-            Aquí van a hablar de algún momento del mes que se les hizo crítico, divertido, interesante, curioso y demás.
-            <br /><br />
-            Es un espacio para animarlos a ustedes a reflexionar sobre cómo vivieron el mes que pasó y a elegir un momento que quieran recordar por siempre.
-            <br /><br />
-            Maya y Carlos esperan que les guste lo que van a compartir con ustedes.
-            <br /><br /> */}
-                
-            <p style={{ textAlign: 'center' }}>------------------------</p>
           
             <div>
                 <h1 className='post-title' >{lastPost.frontmatter.title}</h1>

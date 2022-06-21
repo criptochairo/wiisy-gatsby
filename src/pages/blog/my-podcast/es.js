@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useState} from 'react'
 import { Link } from "gatsby"
 import Nav from '../../../components/Nav'
 import { StaticImage } from "gatsby-plugin-image"
@@ -12,6 +12,13 @@ function Podcast({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const posts = data.allMarkdownRemark.nodes;
     const lastPost = posts[0];
+    const [showText, setShowText] = useState(false);
+    let buttonText
+    if (!showText) {
+      buttonText = "Haz click aquí para saber más sobre esta sección"
+    } else {
+      buttonText = ""
+    }
 
     return (
         <Layout location={location} title={siteTitle}>
@@ -22,9 +29,12 @@ function Podcast({ data, location }) {
             <StaticImage src="../../../images/Resources/Icons/microphone.png" alt="wiisy-logo" className="blog-img" />
             <h1>Mi pódcast</h1><br />
 
-                <p class="content-text">
+            <React.Fragment>
+              {showText &&
+                
+                <p className="content-text">
 
-                {/* Un día, reflexionando en voz alta con mi esposo y mi hija sobre el sentido de mi vida, y contestando a sus preguntas, llegué a la conclusión de que quería intentar algo nuevo que me daba mucho nervio pero que a la vez me emocionaba enormemente: crear mi propio pódcast. 
+                Un día, reflexionando en voz alta con mi esposo y mi hija sobre el sentido de mi vida, y contestando a sus preguntas, llegué a la conclusión de que quería intentar algo nuevo que me daba mucho nervio pero que a la vez me emocionaba enormemente: crear mi propio pódcast. 
                 <br /><br />
                 Gracias a la pandemia había empezado a escuchar muchos pódcasts y me había enamorado de esta forma tan íntima de comunicación.
                 <br /><br />
@@ -41,9 +51,16 @@ function Podcast({ data, location }) {
                 Mi lengua materna es el español y por eso lo grabo en español. Todavía no me aviento a decir ¿y si digo que sí a grabarlo en inglés? porque eso me da todavía mucho miedo (mi pronunciación no es perfecta y no vaya a ser que acabe diciendo algo que suene a otra cosa, ja, ja). Pero en el espíritu de este sitio web, algún día estaré anunciando que dije que <b><i>!sí!</i></b> y presentaré mi pódcast en inglés.
                 <br /><br />
                 Mientras tanto, aquí les contaré de lo que hablo en mis distintos episodios, con toda la intención de inspirarlos a hacer lo mismo: aprender a regalar sus propias palabras… y ¿quién sabe? A lo mejor también a crear un día su propio pódcast.
-                <br /><br /> */}
+                <br /><br /><br /><br />
                 
                 <p style={{ textAlign: 'center' }}>------------------------</p>
+
+                </p>}
+              {/* eslint-disable-next-line */}
+              <button onClick={() => setShowText(!showText)}><u><strong>{buttonText}</strong></u></button>
+            </React.Fragment>
+
+                <p class="content-text">
                 
                 <div>
                     <h1>{lastPost.frontmatter.title}</h1>

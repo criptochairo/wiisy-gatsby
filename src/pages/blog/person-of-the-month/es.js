@@ -1,4 +1,4 @@
-import React from "react"
+import React, {useState} from 'react'
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Nav from "../../../components/Nav"
@@ -10,6 +10,13 @@ function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const posts = data.allMarkdownRemark.nodes;
     const lastPost = posts[0];
+    const [showText, setShowText] = useState(false);
+    let buttonText
+    if (!showText) {
+      buttonText = "Haz click aquí para saber más sobre esta sección"
+    } else {
+      buttonText = ""
+    }
 
     return (
         <Layout location={location} title={siteTitle}>
@@ -18,20 +25,31 @@ function Photography({ data, location }) {
             <Nav />
             <div className="blog-text-container"> 
             <StaticImage src="../../../images/Resources/Icons/wreath.png" alt="logo" className="blog-img" />
-            <h1>La persona <i>¿Y si digo que sí?</i> del mes</h1> <br /><br />
+            <h1>La persona <i>¿Y si digo que sí?</i> del mes</h1> <br />
+
+            <React.Fragment>
+              {showText &&
+                
+                <p className="content-text">
+
+                  En esta sección quiero compartir con ustedes las historias de la gente que he conocido y que ejemplifica perfectamente la filosofía del <b>"¿y si digo que sí!"</b>.
+                  <br /><br />
+                  Conocerán a personas que, en distintos momentos de sus vidas, se han atrevido a decir que <i><b>¡sí!</b></i> y han iniciado proyectos de lo más interesantes.
+                  <br /><br />
+                  Son la gente que me inspira a seguir adelante y que me recuerda que vale la pena vivir.
+                  <br /><br />
+                  Espero que este espacio los inspire a expresar lo mejor de sí mismos en las distintas áreas de su interés.
+                  <br /><br />
+                  ¡Buena suerte!<br /><br /><br /><br />
+                      
+                  <p style={{ textAlign: 'center' }}>------------------------</p>
+
+                </p>}
+              {/* eslint-disable-next-line */}
+              <button onClick={() => setShowText(!showText)}><u><strong>{buttonText}</strong></u></button>
+            </React.Fragment>
 
             <p class="content-text">
-            {/* En esta sección quiero compartir con ustedes las historias de la gente que he conocido y que ejemplifica perfectamente la filosofía del <b>"¿y si digo que sí!"</b>.
-            <br /><br />
-            Conocerán a personas que, en distintos momentos de sus vidas, se han atrevido a decir que <i><b>¡sí!</b></i> y han iniciado proyectos de lo más interesantes.
-            <br /><br />
-            Son la gente que me inspira a seguir adelante y que me recuerda que vale la pena vivir.
-            <br /><br />
-            Espero que este espacio los inspire a expresar lo mejor de sí mismos en las distintas áreas de su interés.
-            <br /><br />
-            ¡Buena suerte!<br /><br />  */}
-                
-            <p style={{ textAlign: 'center' }}>------------------------</p>
           
             <div>
                 <h1 className='post-title' >{lastPost.frontmatter.title}</h1>
