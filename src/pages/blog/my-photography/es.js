@@ -10,11 +10,14 @@ function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const [showText, setShowText] = useState(false);
     let buttonText
+    let button = document.getElementById('button-55');
     if (!showText) {
       buttonText = "Haz click aquí para saber más sobre esta sección"
-    } else {
-      buttonText = ""
     }
+    if (showText) {
+      button.style.display = "none"
+    }
+
     return (
         <Layout location={location} title={siteTitle}>
         <Seo title="Mis fotografías" />
@@ -61,7 +64,7 @@ function Photography({ data, location }) {
                 </p>}
 
               {/* eslint-disable-next-line */}
-              <button onClick={() => setShowText(!showText)}><u><b>{buttonText}</b></u></button><br/>
+              <button id="button-55" onClick={() => setShowText(!showText)}><b>{buttonText}</b></button><br/>
             </React.Fragment>
 
             <p className="content-text">           
@@ -93,15 +96,12 @@ function Photography({ data, location }) {
                     <i>“Caligrafía de la naturaleza…”</i><br />
                     </div>
                 </div>
-
-                <br/><br/>
-
-                <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al blog</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast/es"><h2>Siguiente sección</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/person-of-the-month/es"><h2>Sección anterior</h2></Link>
-                <br />
-                               
+       
             </p>
+
+          <button id='button-55' aria-label="back-to-blog"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/es"><h2>Regresar al blog</h2></Link></button>
+          <button id='button-55' aria-label="next-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/my-podcast/es"><h2>Siguiente sección</h2></Link></button>
+          <button id='button-55' aria-label="previous-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/person-of-the-month/es"><h2>Sección anterior</h2></Link></button>
 
         </div> 
     </div>

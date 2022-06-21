@@ -10,10 +10,12 @@ function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const [showText, setShowText] = useState(false);
     let buttonText
+    let button = document.getElementById('button-55');
     if (!showText) {
       buttonText = "Click here to learn more about this section"
-    } else {
-      buttonText = "Hide text"
+    }
+    if (showText) {
+      button.style.display = "none"
     }
 
     return (
@@ -60,7 +62,7 @@ function Photography({ data, location }) {
 
                 </p>}
               {/* eslint-disable-next-line */}
-              <button onClick={() => setShowText(!showText)}><u><b>{buttonText}</b></u></button><br/><br/>
+              <button id="button-55" onClick={() => setShowText(!showText)}><b>{buttonText}</b></button><br/><br/>
             </React.Fragment>
 
                 <p className="content-text">
@@ -93,15 +95,12 @@ function Photography({ data, location }) {
                     <i>“Nature's calligraphy…”</i><br />
                     </div>
                 </div>
-
-                <br/><br/>
-
-                <Link className="link" style={{ color: 'black' }} to="/blog/en"><h2>Back to Blog</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast/en"><h2>Next Section</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/person-of-the-month/en"><h2>Previous Section</h2></Link>
-                <br />
-                               
+        
             </p>
+
+          <button id='button-55' aria-label="back-to-blog"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/en"><h2>Back to Blog</h2></Link></button>
+          <button id='button-55' aria-label="next-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/my-podcast/en"><h2>Next Section</h2></Link></button>
+          <button id='button-55' aria-label="previous-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/person-of-the-month/en"><h2>Previous Section</h2></Link></button>
 
         </div> 
     </div>

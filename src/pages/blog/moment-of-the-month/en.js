@@ -12,10 +12,12 @@ function Photography({ data, location }) {
     const lastPost = posts[0];
     const [showText, setShowText] = useState(false);
     let buttonText
+    let button = document.getElementById('button-55');
     if (!showText) {
       buttonText = "Click here to learn more about this section"
-    } else {
-      buttonText = "Hide text"
+    }
+    if (showText) {
+      button.style.display = "none"
     }
 
     return (
@@ -47,7 +49,7 @@ function Photography({ data, location }) {
 
                 </p>}
               {/* eslint-disable-next-line */}
-              <button onClick={() => setShowText(!showText)}><u><strong>{buttonText}</strong></u></button>
+              <button id='button-55' onClick={() => setShowText(!showText)}><strong>{buttonText}</strong></button>
             </React.Fragment>
 
 
@@ -101,14 +103,12 @@ function Photography({ data, location }) {
                       })}
                   </ol>
               }
-
-              <br /><br />
-
-              <Link className="link" style={{ color: 'black' }} to="/blog/en"><h2>Back to Blog</h2></Link>
-              <Link className="link" style={{ color: 'black' }} to="/blog/person-of-the-month/en"><h2>Next Section</h2></Link>
-              <Link className="link" style={{ color: 'black' }} to="/blog/abuelita-recommends/en"><h2>Previous Section</h2></Link>
                             
            </p>
+
+          <button id='button-55' aria-label="back-to-blog"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/en"><h2>Back to Blog</h2></Link></button>
+          <button id='button-55' aria-label="next-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/person-of-the-month/en"><h2>Next Section</h2></Link></button>
+          <button id='button-55' aria-label="previous-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/abuelita-recommends/en"><h2>Previous Section</h2></Link></button>
         </div> 
     </div>
     </Layout>

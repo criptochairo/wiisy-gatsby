@@ -12,10 +12,12 @@ function Photography({ data, location }) {
     const lastPost = posts[0];
     const [showText, setShowText] = useState(false);
     let buttonText
+    let button = document.getElementById('button-55');
     if (!showText) {
       buttonText = "Haz click aquí para saber más sobre esta sección"
-    } else {
-      buttonText = ""
+    }
+    if (showText) {
+      button.style.display = "none"
     }
 
     return (
@@ -53,7 +55,7 @@ function Photography({ data, location }) {
 
                   </p>}
                 {/* eslint-disable-next-line */}
-                <button onClick={() => setShowText(!showText)}><u><strong>{buttonText}</strong></u></button>
+                <button id='button-55' onClick={() => setShowText(!showText)}><strong>{buttonText}</strong></button>
               </React.Fragment>
 
                 <p className="content-text">
@@ -106,14 +108,12 @@ function Photography({ data, location }) {
                     })}
                 </ol>
                 }
-
-                <br /><br />
-
-                <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al blog</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/projects-with-my-daughter/es"><h2>Siguiente sección</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast/es"><h2>Sección anterior</h2></Link>
-                               
+            
             </p>
+
+          <button id='button-55' aria-label="back-to-blog"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/es"><h2>Regresar al blog</h2></Link></button>
+          <button id='button-55' aria-label="next-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/projects-with-my-daughter/es"><h2>Siguiente sección</h2></Link></button>
+          <button id='button-55' aria-label="previous-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/my-podcast/es"><h2>Sección anterior</h2></Link></button>
 
         </div> 
     </div>
