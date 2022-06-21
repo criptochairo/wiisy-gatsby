@@ -8,11 +8,16 @@ import Seo from '../../../components/seo'
 
 
 function Podcast({ data, location }) {
-    
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const posts = data.allMarkdownRemark.nodes;
     const lastPost = posts[0];
     const [showText, setShowText] = useState(false);
+    let buttonText
+    if (!showText) {
+      buttonText = "Click here to learn more about this section"
+    } else {
+      buttonText = "Hide text"
+    }
 
     return (
         <Layout location={location} title={siteTitle}>
@@ -51,7 +56,7 @@ function Podcast({ data, location }) {
 
                 </p>}
               {/* eslint-disable-next-line */}
-              <button onClick={() => setShowText(!showText)}><u><strong>Click here to read the intro for this section</strong></u></button>
+              <button onClick={() => setShowText(!showText)}><u><strong>{buttonText}</strong></u></button>
             </React.Fragment>
 
                 <p class="content-text">

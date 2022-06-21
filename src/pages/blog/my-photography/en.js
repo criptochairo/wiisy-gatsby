@@ -9,6 +9,13 @@ import { graphql } from "gatsby"
 function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const [showText, setShowText] = useState(false);
+    let buttonText
+    if (!showText) {
+      buttonText = "Click here to learn more about this section"
+    } else {
+      buttonText = "Hide text"
+    }
+
     return (
         <Layout location={location} title={siteTitle}>
         <Seo title="My Photography" />
@@ -53,7 +60,7 @@ function Photography({ data, location }) {
 
                 </p>}
               {/* eslint-disable-next-line */}
-              <button onClick={() => setShowText(!showText)}><u><b>Click here to read the intro for this section</b></u></button><br/><br/>
+              <button onClick={() => setShowText(!showText)}><u><b>{buttonText}</b></u></button><br/><br/>
             </React.Fragment>
 
                 <p className="content-text">
