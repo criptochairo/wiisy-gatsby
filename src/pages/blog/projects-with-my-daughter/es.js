@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Nav from "../../../components/Nav"
@@ -17,7 +17,7 @@ function Photography({ data, location }) {
         return;
       }
     }, []);
-    
+
     let buttonText
     let button = document.getElementById('button-55');
     if (!showText) {
