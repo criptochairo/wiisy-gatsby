@@ -20,6 +20,12 @@ function Photography({ data, location }) {
       button.style.display = "none"
     }
 
+    useEffect(() => {
+      if (typeof window === 'undefined' || !window.document) {
+        return;
+      }
+    }, []);
+
     return (
         <Layout location={location} title={siteTitle}>
         <Seo title="Proyectos con mi hija" />
