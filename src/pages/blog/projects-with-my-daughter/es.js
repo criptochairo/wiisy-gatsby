@@ -14,7 +14,7 @@ function Photography({ data, location }) {
     let buttonText
     let button = document.getElementById('button-55');
     if (!showText) {
-      buttonText = "Haz click aquí para saber más sobre esta sección"
+      buttonText = "asdasda"
     }
     if (showText) {
       button.style.display = "none"
