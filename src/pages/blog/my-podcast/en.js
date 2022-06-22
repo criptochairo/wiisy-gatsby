@@ -13,12 +13,10 @@ function Podcast({ data, location }) {
     const lastPost = posts[0];
     const [showText, setShowText] = useState(false);
     let buttonText
-    let button = document.getElementById('button-55');
     if (!showText) {
       buttonText = "Click here to learn more about this section"
-    }
-    if (showText) {
-      button.style.display = "none"
+    } else {
+      buttonText = "Hide text"
     }
 
     return (
@@ -31,6 +29,7 @@ function Podcast({ data, location }) {
             <h1>My Podcast</h1><br />
 
             <React.Fragment>
+            <button id='button-55' aria-label='show-text' onClick={() => setShowText(!showText)}><strong>{buttonText}</strong></button><br />
               {showText &&
                 
                 <p class="content-text">
@@ -57,8 +56,7 @@ function Podcast({ data, location }) {
                 <p style={{ textAlign: 'center' }}>------------------------</p>
 
                 </p>}
-              {/* eslint-disable-next-line */}
-              <button id='button-55' onClick={() => setShowText(!showText)}><strong>{buttonText}</strong></button>
+
             </React.Fragment>
 
                 <p class="content-text">

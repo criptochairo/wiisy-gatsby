@@ -10,12 +10,10 @@ function Photography({ data, location }) {
     const siteTitle = data.site.siteMetadata?.title || `Title`;
     const [showText, setShowText] = useState(false);
     let buttonText
-    let button = document.getElementById('button-55');
     if (!showText) {
-      buttonText = "Haz click aquí para saber más sobre esta sección"
-    }
-    if (showText) {
-      button.style.display = "none"
+      buttonText = "Haz click aquí para aprender más sobre esta sección"
+    } else {
+      buttonText = "Esconder texto"
     }
 
     return (
@@ -28,6 +26,8 @@ function Photography({ data, location }) {
             <h1>Mis fotografías</h1> <br />
 
             <React.Fragment>
+              {/* eslint-disable-next-line */}
+              <button id='button-55' aria-label='show-text' onClick={() => setShowText(!showText)}><strong>{buttonText}</strong></button><br />
               {showText &&
                 
                 <p className="content-text"><br />
@@ -63,8 +63,6 @@ function Photography({ data, location }) {
 
                 </p>}
 
-              {/* eslint-disable-next-line */}
-              <button id="button-55" onClick={() => setShowText(!showText)}><b>{buttonText}</b></button><br/>
             </React.Fragment>
 
             <p className="content-text">           

@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react'
+import React, {useState} from 'react'
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Nav from "../../../components/Nav"
@@ -11,20 +11,11 @@ function Photography({ data, location }) {
     const posts = data.allMarkdownRemark.nodes;
     const lastPost = posts[0];
     const [showText, setShowText] = useState(false);
-    
-    useEffect(() => {
-      if (typeof window === 'undefined' || !window.document) {
-        return;
-      }
-    }, []);
-
     let buttonText
-    let button = document.getElementById('button-55');
     if (!showText) {
-      buttonText = "asdasda"
-    }
-    if (showText) {
-      button.style.display = "none"
+      buttonText = "Haz click aquí para aprender más sobre esta sección"
+    } else {
+      buttonText = "Esconder texto"
     }
 
     
@@ -39,6 +30,8 @@ function Photography({ data, location }) {
             <h1>Proyectos con mi hija</h1> <br />
 
             <React.Fragment>
+              {/* eslint-disable-next-line */}
+              <button id='button-55' aria-label='show-text' onClick={() => setShowText(!showText)}><strong>{buttonText}</strong></button><br />
                 {showText &&
                   
                   <p className="content-text">
@@ -59,8 +52,7 @@ function Photography({ data, location }) {
                   <p style={{ textAlign: 'center' }}>------------------------</p>
 
                   </p>}
-                {/* eslint-disable-next-line */}
-                <button id='button-55' onClick={() => setShowText(!showText)}><strong>{buttonText}</strong></button>
+                
               </React.Fragment>
 
               <p class="content-text">
