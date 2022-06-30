@@ -343,7 +343,7 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  height: 6em;
+  height: 5.5em;
   background-color: rgb(247, 242, 242);
   box-shadow: 0px 5px 15px lightgray;
   z-index: 101;
@@ -688,29 +688,6 @@ button {
   box-shadow: rgba(0, 0, 0, .3) 2px 8px 4px -6px;
 }
 
-/* #toggleIntro {
-  border: 1px solid grey;
-  border-radius: 15px;
-  position: relative;
-  display: inline-flex;
-  width: 260px;
-  height: 60px;
-  margin: 0 15px;
-  text-decoration: none;
-}
-
-#toggleIntro strong {
-  text-decoration: none;
-}
-
-#toggleIntro:hover{
-  background-color: lightblue;
-}
-
-#toggleIntro strong:hover{
-  text-decoration: underline;
-} */
-
 .footer-wrapper {
   margin-top: 3em;
 }
@@ -891,7 +868,8 @@ h3 {
   }
 
   .nav-links {
-    width: 80%;
+    width: 100%;
+    font-size: 1.10em;
   }
 
 }

@@ -68,29 +68,35 @@ function Photography({ data, location }) {
 
                 <div className="post-img-container">
                     <i><b>January</b></i><br />
-                    <StaticImage src="../../../images/Resources/Pics/Photography/jan.jpg" alt="logo" />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/jan.jpg" alt="logo" /><br />
                     <i>“A stone in the road taught me that…”</i><br />
                     ------------------------<br /><br />
                     <i><b>February</b></i><br />
-                    <StaticImage src="../../../images/Resources/Pics/Photography/feb.jpg" alt="logo" />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/feb.jpg" alt="logo" /><br />
                     <i>“Autumnal carpet…”</i><br />
                     ------------------------<br /><br />
                     <i><b>March</b></i><br />
-                    <StaticImage src="../../../images/Resources/Pics/Photography/mar.jpg" alt="logo" />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/mar.jpg" alt="logo" /><br />
                     <i>“Nature also smiles…”</i><br />
                     ------------------------<br /><br />
                     <i><b>April</b></i><br />
-                    <StaticImage src="../../../images/Resources/Pics/Photography/apr.jpg" alt="logo" />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/apr.jpg" alt="logo" /><br />
                     <i>“Two seasons at the same time”</i><br />
                     ------------------------<br /><br />
                     <i><b>May</b></i><br />
-                    <StaticImage src="../../../images/Resources/Pics/Photography/may.jpg" alt="logo" />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/may.jpg" alt="logo" /><br />
                     <i>“The mother of all (maple) leaves…”</i><br />
                     ------------------------<br /><br />
                     <div className="post-img-container">
                     <i><b>June</b></i><br />
-                    <StaticImage src="../../../images/Resources/Pics/Photography/jun.jpg" alt="logo" />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/jun.jpg" alt="logo" /><br />
                     <i>“Nature's calligraphy…”</i><br />
+                    </div>
+                    ------------------------<br /><br />
+                    <div className="post-img-container">
+                    <i><b>July</b></i><br />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/july.jpg" alt="logo" /><br />
+                    <i>“The beginning of life…”</i><br />
                     </div>
                 </div>
         
