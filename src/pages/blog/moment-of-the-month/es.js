@@ -37,7 +37,7 @@ function Photography({ data, location }) {
 
                   El momento del mes es una sección que estará a cargo de mi hija Maya y mi esposo Carlos. 
                   <br /><br />
-                  Querían participar en este espacio y dije que <b><i>!sí!</i></b> <span role="img" aria-label="smile">😄</span>
+                  Querían participar en este espacio y dije que <b><i>¡sí!</i></b> <span role="img" aria-label="smile">😄</span>
                   <br /><br />
                   Aquí van a hablar de algún momento del mes que se les hizo crítico, divertido, interesante, curioso y demás.
                   <br /><br />
