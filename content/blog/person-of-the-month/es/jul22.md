@@ -9,7 +9,7 @@ section: "potm-es"
 
 Beto es mi cuñado y mi compadre (soy madrina de Bernardo, su primer hijo), pero lo más importante es que es el hombre al que mi adorada hermana escogió como su pareja de vida.
 
-Lo he querido mucho desde el principio, pero durante todos estos años que llevo de conocerlo he aprendido también a admirarlo porque en un país como México no es algo fácil negociar con tu pareja el revertir los papeles tradicionales de tal manera que mi hermana es desde hace rato la que sale a trabajar (con paga) y él se va a quedar a cuidar a mi sobrino Berni y mi sobrina Rebe (trabajo sin paga).
+Lo he querido mucho desde el principio, pero durante todos estos años que llevo de conocerlo he aprendido también a admirarlo porque en un país como México no es algo fácil negociar con tu pareja el revertir los papeles tradicionales de tal manera que mi hermana es desde hace rato la que sale a trabajar (con paga) y él se queda a cuidar a mi sobrino Berni y mi sobrina Rebe (trabajo sin paga).
 
 Durante estos años él ha ido forjando su propio camino (ya lo descubrirán aquí abajo) y eso es siempre una maravilla.
 

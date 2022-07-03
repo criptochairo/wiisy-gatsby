@@ -14,3 +14,5 @@ section: "abuelita-es"
 *Arthur Rubinstein escribió una autobiografía en dos volúmenes. En el primer volumen titulado “My Young Years” y publicado cuando él tenía 86 años, dice:*
 
 > **“La vida nos puede privar de la libertad, de la salud, de la fortuna, de los amigos, de la familia, del éxito, pero no puede quitarnos el pensamiento ni la imaginación, y siempre hay amor, música, arte, flores y libros. Y el apasionado interés por todo.”** *(Traducido con Google Translate)*
+
+> **“Life can deprive us of freedom, of health, of fortune, of friends, of family, of success, but cannot take away from us our thoughts or our imagination, and there is always love, music, art, flowers, and books. And the passionate interest in everything.”**

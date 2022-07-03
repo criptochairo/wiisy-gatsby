@@ -95,7 +95,7 @@ function Photography({ data, location }) {
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <i><b>Junio</b></i><br />
+                    <i><b>Julio</b></i><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/july.jpg" alt="logo" /><br />
                     <i>“El comienzo de la vida”</i><br />
                     </div>
