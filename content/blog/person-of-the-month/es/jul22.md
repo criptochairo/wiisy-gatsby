@@ -15,7 +15,7 @@ Durante estos años él ha ido forjando su propio camino (ya lo descubrirán aqu
 
 Aquí les dejo las respuestas que Beto me mandó a mis 10 preguntas:
 
-***1. ¿Cómo te describirías a ti misma?***
+***1. ¿Cómo te describirías a ti mismo?***
 
 Soy un soñador, me gusta soñar. Sueño mientras duermo y sueño mientras estoy despierto. Todo el tiempo estoy soñando: imaginando cosas, haciendo planes, haciendo historias, anticipándome, construyendo el futuro.
 
