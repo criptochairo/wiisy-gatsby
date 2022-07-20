@@ -11,4 +11,4 @@ She has been rehearsing a lot for this video.
 
 Let's see if you can try some of the poses she is showing you:
 
-[¡Click here to watch the video!](https://youtu.be/aNeQ92nKZio)
+[Click here to watch the video!](https://youtu.be/aNeQ92nKZio)

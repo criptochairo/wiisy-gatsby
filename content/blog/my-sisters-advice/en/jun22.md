@@ -5,6 +5,8 @@ description: "This is a custom description for SEO and Open Graph purposes, rath
 section: "sister"
 ---
 
+![PostImg](../images/jun22.jpg)
+
 **Dear sister, how do you think a family can best decide where to live, taking into account all family members?**
 
 — *Your questions are very complex ha-ha, but here's what I think:*
@@ -14,5 +16,3 @@ section: "sister"
 *I would like to think that parents make these decisions based on what they consider to be the best for the family; and even if they listen to everyone's opinion, not everyone will necessarily be happy with the decision.*
 
 *But such is life. You can't always leave everyone happy, ha-ha.*
-
-![PostImg](../images/jun22.jpg)

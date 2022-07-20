@@ -9,4 +9,4 @@ This month we want to show Cookies’ myriad of emotions.
 
 How does she look when she is happy, angry, scared, excited, etc.?
 
-[¡Click here to watch the video!](https://www.youtube.com/watch?v=aP4sbSr1ibM)
+[Click here to watch the video!](https://www.youtube.com/watch?v=aP4sbSr1ibM)

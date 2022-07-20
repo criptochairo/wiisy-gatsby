@@ -5,6 +5,8 @@ description: "This is a custom description for SEO and Open Graph purposes, rath
 section: "sister-es"
 ---
 
+![PostImg](../images/jul22.jpg)
+
 **Hermanita, ¿qué haces cuando estás aburrida?**
 
 — *Esa está fácil jaja, porque para eso sirven los pasatiempos.*
@@ -14,5 +16,3 @@ section: "sister-es"
 *Leer, ver alguna serie o película que te guste, bailar...*
 
 *¡Cualquier pasatiempo es bueno para esos momentos!!* 😉
-
-![PostImg](../images/jul22.jpg)

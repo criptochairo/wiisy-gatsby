@@ -5,6 +5,8 @@ description: "This is a custom description for SEO and Open Graph purposes, rath
 section: "sister-es"
 ---
 
+![PostImg](../images/jun22.jpg)
+
 **Hermanita, ¿cómo crees que una familia puede decidir de mejor manera en qué lugar vivir, tomando en cuenta a todas/os los miembros de la familia?**
 
 — *Hola, mi Luci. Tus preguntas son muy complejas jaja, pero ahí te va lo que pienso:*
@@ -14,5 +16,3 @@ section: "sister-es"
 *Quiero pensar que los padres toman estas decisiones en función de lo que consideran que es lo mejor para la familia y aunque escuchen la opinión de todos, no necesariamente todos quedarán felices con la decisión.*
 
 *Pero así es la vida, muchas veces no se puede dejar a todos contentos jaja.*
-
-![PostImg](../images/jun22.jpg)

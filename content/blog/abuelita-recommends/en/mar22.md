@@ -5,7 +5,7 @@ description: "This is a custom description for SEO and Open Graph purposes, rath
 section: "abuelita"
 ---
 
-![PostImg](../images/mar22-2.jpg)
+![PostImg](../images/mar22.jpg)
 
 **How did you come up with wanting to walk the entire periphery of the island of Manhattan, and why?**
 
@@ -15,7 +15,7 @@ I like to be near the rivers and see the different types of boats go by. And I e
 
 **How long did it take you to walk the whole way?**
 
-I don't remember exactly, but my husband thinks it was like 4 days total, over several trips we made to NYC. Each time we restarted the route where we had left it the last time we were in the city.
+I don't remember exactly, but my husband thinks it was like 4 days total, over several trips we made to NYC. Each time we restarted the route where we had left off the last time we were in the city.
 
 **What do you think about the experience?**
 

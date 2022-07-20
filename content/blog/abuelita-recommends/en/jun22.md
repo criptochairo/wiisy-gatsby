@@ -7,7 +7,7 @@ section: "abuelita"
 
 ![PostImg](../images/jun22.jpg)
 
-**This month, Abuelita recommends a delicious soup. Here are her instructions for Cold Avocado Soup:**
+**This month, *Abuelita* recommends a delicious soup. Here are her instructions for Cold Avocado Soup:**
 
 **Ingredients:**
 

@@ -5,6 +5,8 @@ description: "This is a custom description for SEO and Open Graph purposes, rath
 section: "sister"
 ---
 
+![PostImg](../images/jul22.jpg)
+
 **Dear sister, what do you do when you're bored?**
 
 — *That's easy ha-ha! Because that's what hobbies are for.*
@@ -14,5 +16,3 @@ section: "sister"
 *Read, watch a tv series or movie that you like, dance...*
 
 *Any hobby is good for those moments!!* 😉
-
-![PostImg](../images/jul22.jpg)
