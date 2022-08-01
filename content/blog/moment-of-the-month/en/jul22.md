@@ -7,7 +7,7 @@ section: "motm"
 
 ![PostImg](../images/jul22-1.jpg)
 
-***Maya***: This month, mama, papa, and I went to Coney Island's Luna Park and had a blast!
+***Maya***: Last month, mama, papa, and I went to Coney Island's Luna Park and had a blast!
 
 The first thing we did was go on the famous Cyclone Roller Coaster! It was only papa and me because mama didn’t want to do it.
 
