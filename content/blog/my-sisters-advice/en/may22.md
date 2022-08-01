@@ -11,9 +11,16 @@ section: "sister"
 
 — *The books that I remember today that helped me at least understand what I was going through (I can't be sure that they made me a better mom, ha ha) are these:*
 
+![PostImg](../images/may22-1.jpg)
+
 • **What to Expect When You’re Expecting**
 
+![PostImg](../images/may22-2.jpg)
+![PostImg](../images/may22-3.jpg)
+
 • **Your Baby and Child** and **Because I Said So!**
+
+![PostImg](../images/may22-4.jpg)
 
 • **How To Talk So Kids Will Listen and Listen So Kids Will Talk** - version for children and adolescents.
 

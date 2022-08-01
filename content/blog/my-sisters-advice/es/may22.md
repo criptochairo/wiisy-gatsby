@@ -11,9 +11,16 @@ section: "sister-es"
 
 — *Los libros que hoy recuerdo que me ayudaron al menos a entender por lo que estaba yo pasando (no puedo asegurar que me hayan hecho mejor mamá ja, ja) son éstos:*
 
+![PostImg](../images/may22-1.jpg)
+
 • **Qué se puede esperar cuando se está esperando** - para el embarazo
 
+![PostImg](../images/may22-2.jpg)
+![PostImg](../images/may22-3.jpg)
+
 • **Your Baby and Child** y **¡Porque lo mando yo!**
+
+![PostImg](../images/may22-4.jpg)
 
 • **Cómo hablar para que los niños escuchen y cómo escuchar para que los niños hablen** - versión para niños y para adolescentes.
 
