@@ -49,7 +49,7 @@ I still remember that there was some backlash to my decision, but my parents sup
 
 Well, recently, a friend told me that she was going to travel to Portugal, and I told her half-jokingly: “Hey, invite me” and she invited me!
 
-So, I thought, well, now I'm going to tell Níger (my husband), I don’t have anything to lose. I told him and he said: “You should go” … And, well, I am answering your questions from Portugal!
+So, I thought, well, now I'm going to tell Niger (my husband), I don’t have anything to lose. I told him and he said: “You should go” … And, well, I am answering your questions from Portugal!
 
 ***7. What things have you created in your life after saying "what if I say yes?" Make a list.***
 

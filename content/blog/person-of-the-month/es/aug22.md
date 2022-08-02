@@ -49,7 +49,7 @@ Aún recuerdo que hubo cierta censura por mi decisión, pero mis papás me apoya
 
 Bueno, hace poco, una amiga me dijo que iba a viajar a Portugal y pues yo le dije medio en broma: “oye, pues invita” y me invitó.
 
-Entonces pensé, pues le voy a comentar a Níger (mi esposo), nada pierdo. Le comenté y me dijo: "Deberías ir" y pues estoy escribiendo esto desde Portugal.
+Entonces pensé, pues le voy a comentar a Niger (mi esposo), nada pierdo. Le comenté y me dijo: "Deberías ir" y pues estoy escribiendo esto desde Portugal.
 
 ***7. ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.***
 
