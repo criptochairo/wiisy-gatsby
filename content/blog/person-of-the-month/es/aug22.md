@@ -79,11 +79,9 @@ Hace poco tuve un momento “¿y si digo sí?” y eso tuvo una consecuencia fel
 
 Que vale la pena darse oportunidades en este viaje por la vida, porque no sabemos si va a ser corto o largo; de tal forma que vale la pena imprimir amor y pasión.
 
-Pueden encontrar a Beto en:
+Pueden encontrar a Gina en:
 
-[WAKO CDMX](https://www.facebook.com/WAKOCDMX)
-
-[Facebook](https://www.facebook.com/beto.cordova.397)
+[Facebook](https://www.facebook.com/FeministaCitadinaDeIzquierda/)
 
 ![Gina](../images/aug22-2.jpg)
 
