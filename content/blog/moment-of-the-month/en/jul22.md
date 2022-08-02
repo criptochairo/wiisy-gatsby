@@ -32,9 +32,9 @@ Back then, the most famous roller coaster on Earth, the Cyclone, was my first ev
 
 Going on that roller coaster for the first time at age six (how I was allowed, who knows!) was incredible (I got on it twice in a row on my first trip!).  
 
-Most impressively, Maya and I boarded the Cyclone twice!  For example, we also went on other rides, the Brooklyn Flyer and the Electro Spin (Disk'O).  
+Most impressively, Maya and I boarded the Cyclone twice! We also went on other rides, the Brooklyn Flyer and the Electro Spin (Disk’O), for instance.
 
-We did have a blast, as Maya said, although I injured myself (Achilles tendinitis) while walking with my new Crocs.  
+We had a blast, as Maya said, although I did injure myself (Achilles tendinitis) while walking with my new Crocs.  
 
 But, the most important thing is that Maya finally got to experience one of my childhood hot spots and favorite roller coasters.  
 

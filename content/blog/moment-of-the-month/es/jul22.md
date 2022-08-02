@@ -39,9 +39,9 @@ Fue mi primera experiencia de emoción, miedo, terror y diversión, ¡todo al mi
 
 Subirme a esa montaña rusa por primera vez a los seis años (¡cómo me permitieron entrar! ¡quién sabe!) fue increíble (¡me subí dos veces seguidas en mi primer viaje!).
 
-¡Lo más impresionante es que Maya y yo nos subimos al Cyclone dos veces!
+¡Lo más impresionante es que Maya y yo nos subimos al Ciclón dos veces! También nos subimos al Brooklyn Flyer y al Electro Spin (Disk'O).
 
-También nos subimos a otros juegos como el Brooklyn Flyer y el Electro Spin (Disk'O).
+Como dijo Maya nos lo pasamos de maravilla, aunque yo me lesioné (tendinitis de Aquiles) mientras caminaba con mis nuevos Crocs.
 
 Nos lo pasamos genial, como dijo Maya, aunque yo me lesioné (tendinitis en el talón de Aquiles) por haber caminado con mis nuevos Crocs.
 
