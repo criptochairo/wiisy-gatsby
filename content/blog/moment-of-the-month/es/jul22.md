@@ -25,7 +25,7 @@ La primera vez, me senté sola, pero esta vez me senté con mi papá, ¡y fue lo
 
 ¡Y ahora puedo decir con orgullo que me subí al Cyclone de Brooklyn!
 
-***Papa***: Una de las cosas que he querido hacer desde que nació Maya era llevarla a Coney Island en Brooklyn, Nueva York, un lugar que aprecio mucho en mi corazón.
+***Carlos***: Una de las cosas que he querido hacer desde que nació Maya era llevarla a Coney Island en Brooklyn, Nueva York, un lugar que aprecio mucho en mi corazón.
 
 ¡Ahora puedo quitar eso de mi lista de deseos!
 

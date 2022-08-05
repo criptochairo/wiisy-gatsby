@@ -17,7 +17,7 @@ I spent more than 5 hours building it with Papa. It was fun but it was also frus
 
 But overall, it was a good learning experience and a good way to learn how to work with other people.
 
-***Papa***: This month Maya had a fantastic project to construct: a model of the Forum of Augustus.  
+***Carlos***: This month Maya had a fantastic project to construct: a model of the Forum of Augustus.  
 
 The forum was a significant part of the ancient city of Rome.  
 

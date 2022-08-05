@@ -22,7 +22,7 @@ After all that, the last thing we did was go on the Cyclone again because I want
 
 The first time I sat alone, I sat with papa this time, and it was the best thing ever! And now I can proudly say that I went on the Brooklyn Cyclone!
 
-***Papa***: One of the things I have wanted to do ever since Maya was born was to take her to Coney Island in Brooklyn, NY, a place I hold dear to my heart.  I can now take that off my bucket list!  
+***Carlos***: One of the things I have wanted to do ever since Maya was born was to take her to Coney Island in Brooklyn, NY, a place I hold dear to my heart.  I can now take that off my bucket list!  
 
 Well, I was finally able to keep my promise, and this month take Maya (with Lucía) to Coney Island.  
 

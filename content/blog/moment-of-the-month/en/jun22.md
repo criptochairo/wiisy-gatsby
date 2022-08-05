@@ -7,7 +7,7 @@ section: "motm"
 
 ![PostImg](../images/jun22-1.jpg)
 
-***Papa***: The moment of the month of June is FATHER'S DAY!
+***Carlos***: The moment of the month of June is FATHER'S DAY!
 
 It was one of the most memorable Father's Day celebrations I have ever had since becoming a father officially in February 2010. Maya and Lucía treated me like an Ithaca king, allowing me to make all the decisions without compromises. That is a father's dream!
 

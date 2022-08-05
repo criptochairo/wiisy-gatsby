@@ -7,7 +7,7 @@ section: "motm-es"
 
 ![PostImg](../images/jun22-1.jpg)
 
-***Papa***: ¡El momento del mes de junio fue el DÍA DEL PADRE!
+***Carlos***: ¡El momento del mes de junio fue el DÍA DEL PADRE!
 
 Fue una de las celebraciones del Día del Padre más memorables que he tenido desde que me convertí en padre oficialmente en febrero del 2010. Maya y Lucía me trataron como un rey de Ítaca, permitiéndome tomar todas las decisiones sin compromisos. ¡Ese es el sueño de un padre!
 

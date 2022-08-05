@@ -17,7 +17,7 @@ Pasé más de 5 horas construyéndolo con mi papá. Fue divertido, pero también
 
 Pero en general, fue una buena experiencia de aprendizaje y una buena manera de aprender a trabajar con otras personas.
 
-***Papa***: Este mes Maya tenía un proyecto fantástico para construir: una maqueta del Foro de Augusto.
+***Carlos***: Este mes Maya tenía un proyecto fantástico para construir: una maqueta del Foro de Augusto.
 
 El foro era una parte importante de la antigua ciudad de Roma.
 

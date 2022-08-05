@@ -7,4 +7,4 @@ section: "projects-es"
 
 Cookies estaba hiperactiva y tratamos de enseñarle a calmarse a través de la meditación.
 
-[Hagan click aquí para averiguar qué pasó...](https://youtu.be/aNeQ92nKZio)
+[Hagan click aquí para averiguar qué pasó...](https://youtu.be/xOC6N-IlN-A)
