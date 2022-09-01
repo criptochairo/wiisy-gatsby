@@ -13,7 +13,7 @@ Como mi hermano mayor, era el que abría el camino, y siempre nos asombraban pri
 
 Aquí hay 10 preguntas que le hice para que lo conozcan mejor:
 
-***1. ¿Cómo te describirías a ti misma?***
+***1. ¿Cómo te describirías a ti mismo?***
 
 Siempre me gustó aprender. Desde que recuerdo siempre me interesaba entender cómo funcionaban o se hacían las cosas. Eso me ha llevado a vivir distintas etapas en mis 55 años, a través de las cuales creo que he ido cambiando paulatinamente hasta considerarme una persona totalmente diferente entre etapas y a lo largo de mi vida.
 
