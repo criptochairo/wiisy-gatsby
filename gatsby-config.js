@@ -5,8 +5,8 @@ module.exports = {
       name: `Lucía Cárdenas`,
       summary: ``,
     },
-    description: `Personal blog for Lucía Cárdenas.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Personal blog by Lucía Cárdenas.`,
+    siteUrl: `https://www.whatifisayyes.com/`,
     social: {
       twitter: `kylemathews`,
     }
