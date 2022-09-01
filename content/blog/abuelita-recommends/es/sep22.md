@@ -1,5 +1,5 @@
 ---
-title: Agosto
+title: Septiembre
 date: "2022-09-01T00:00:00.000Z"
 description: "This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter."
 section: "abuelita-es"

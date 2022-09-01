@@ -7,7 +7,7 @@ section: "sister-es"
 
 ![PostImg](../images/sep22.jpg)
 
-**¿Cuánto esfuerzo hay que ponerle a mantener un hogar ordenado, sobre todo cuando los habitantes de dicho espacio tienen distintas nociones de lo que significa el orden, jaja?**
+**¿Cómo preparar a los hijos e hijas con respecto al tema de la muerte de seres queridos?**
 
 *Ay mi Luci, me preguntas cada cosa …. Jajaja. Pero bueno, ahí te va:*
 

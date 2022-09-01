@@ -9,7 +9,7 @@ section: "potm-es"
 
 Luis es el ejemplo perfecto de alguien que está dispuesto a enfrentar sus miedos y probar cosas nuevas, audaces y emocionantes.
 
-Como hermano mayor, era el que abría el camino, y siempre nos asombraban principalmente dos cosas: su capacidad de aventura y su disciplina para estudiar un tema específico.
+Como mi hermano mayor, era el que abría el camino, y siempre nos asombraban principalmente dos cosas: su capacidad de aventura y su disciplina para estudiar un tema específico.
 
 Aquí hay 10 preguntas que le hice para que lo conozcan mejor:
 

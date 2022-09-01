@@ -25,7 +25,7 @@ Creo que así es como debería ser un viaje de un día: muy divertido, con juego
 
 ¡Esperamos volver en octubre para las festividades de Halloween de Greek Peak!
 
-***Maya***: Nuestro *Momento del Mes* fue ir al Greek Peak en un viaje de un día.
+***Maya***: Nuestro *Momento del mes* fue ir al Greek Peak en un viaje de un día.
 
 ¡Primero, nos subimos a la montaña rusa tres veces seguidas!
 

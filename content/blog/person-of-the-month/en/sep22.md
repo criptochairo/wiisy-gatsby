@@ -9,7 +9,7 @@ section: "potm"
 
 Luis is the perfect example of someone who is willing to face their fears and try new, bold, and exciting things.
 
-As the oldest sibling, he was the one leading the way, and we were always amazed at mainly two things: his capacity for adventure and his discipline for studying a specific matter.
+As my oldest sibling, he was the one leading the way, and we were always amazed at mainly two things: his capacity for adventure and his discipline for studying a specific matter.
 
 Here are 10 questions I asked him, so you can get to know him better:
 
