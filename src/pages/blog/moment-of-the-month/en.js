@@ -20,7 +20,7 @@ function Photography({ data, location }) {
 
     return (
         <Layout location={location} title={siteTitle}>
-        <Seo title="Momenth of Last Month" />
+        <Seo title="Moment of Last Month" />
         <div className="aboutme-page">
             <Nav />
             <div className="blog-text-container"> 
