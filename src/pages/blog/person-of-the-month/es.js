@@ -104,7 +104,7 @@ function Photography({ data, location }) {
 
           <button id='button-55' aria-label="back-to-blog"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/es"><h2>Regresar al blog</h2></Link></button>
           <button id='button-55' aria-label="next-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/my-photography/es"><h2>Siguiente sección</h2></Link></button>
-          <button id='button-55' aria-label="previous-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/moment-of-the-month/es"><h2>Sección anterior</h2></Link></button>
+          <button id='button-55' aria-label="previous-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/moment-of-last-month/es"><h2>Sección anterior</h2></Link></button>
         </div> 
     </div>
     </Layout>

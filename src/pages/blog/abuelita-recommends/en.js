@@ -99,7 +99,7 @@ function Photography({ data, location }) {
                               
           </p>
           <button id='button-55' aria-label="back-to-blog"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/en"><h2>Back to Blog</h2></Link></button>
-          <button id='button-55' aria-label="next-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/moment-of-the-month/en"><h2>Next Section</h2></Link></button>
+          <button id='button-55' aria-label="next-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/moment-of-last-month/en"><h2>Next Section</h2></Link></button>
           <button id='button-55' aria-label="previous-section"><Link className="link" style={{ color: 'black', width: '15rem' }} to="/blog/my-sisters-advice/en"><h2>Previous Section</h2></Link></button>
       </div> 
     </div>
