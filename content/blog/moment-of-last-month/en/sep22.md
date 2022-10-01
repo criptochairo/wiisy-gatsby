@@ -1,5 +1,5 @@
 ---
-title: Septiembre
+title: September
 date: "2022-09-30T00:00:00.000Z"
 description: "This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter."
 section: "motm"
@@ -21,7 +21,7 @@ I am excited to be on the team!
 ![PostImg](../images/sep22-3.jpg)
 ![PostImg](../images/sep22-4.jpg)
 
-***Carlos***: My moment of last month is that I finally made my standup comedy debut on September 6, 2022! It was nerve-racking but fun. I invited a few friends for some support.
+***Carlos***: My moment of September is that I finally made my standup comedy debut on September 6, 2022! It was nerve-racking but fun. I invited a few friends for some support.
 
 I had been waiting to do this for over 35 years or so.
 

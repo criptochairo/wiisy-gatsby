@@ -69,52 +69,52 @@ function Photography({ data, location }) {
 
                 <div className="post-img-container">
                     <div className="post-img-container">
-                    <i><b>Octubre</b></i><br />
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Octubre</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/oct.jpg" alt="logo" /><br />
                     <i>“Con el corazón partido…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <i><b>Septiembre</b></i><br />
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Septiembre</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/sep.jpg" alt="logo" /><br />
                     <i>“Cada semilla es una posibilidad…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <i><b>Agosto</b></i><br />
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Agosto</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/aug.jpg" alt="logo" /><br />
                     <i>“Iluminando el suelo…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <i><b>Julio</b></i><br />
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Julio</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/july.jpg" alt="logo" /><br />
                     <i>“El comienzo de la vida”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <i><b>Junio</b></i><br />
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Junio</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/jun.jpg" alt="logo" /><br />
                     <i>“Caligrafía de la naturaleza…”</i><br />
                     </div>
                     ------------------------<br /><br />
-                    <i><b>Mayo</b></i><br />
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Mayo</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/may.jpg" alt="logo" /><br />
                     <i>“La madre de todas las hojas (de maple)…”</i><br />
                     ------------------------<br /><br />
-                    <i><b>Abril</b></i><br />
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Abril</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/apr.jpg" alt="logo" /><br />
                     <i>“Dos estaciones al mismo tiempo”</i><br />
                     ------------------------<br /><br />
-                    <i><b>Marzo</b></i><br />
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Marzo</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/mar.jpg" alt="logo" /><br />
                     <i>“La naturaleza también sonríe…”</i><br />
                     ------------------------<br /><br />
-                    <i><b>Febrero</b></i><br />
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Febrero</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/feb.jpg" alt="logo" /><br />
                     <i>“Alfombra otoñal…”</i><br />
                     ------------------------<br /><br />
-                    <i><b>Enero</b></i><br />
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Enero</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/jan.jpg" alt="logo" /><br />
                     <i>“Una piedra en el camino me enseñó que…”</i><br />
                     ------------------------<br /><br />                    

@@ -7,6 +7,6 @@ section: "abuelita-es"
 
 ![PostImg](../images/oct22.jpg)
 
-*Mi recomendación para el este mes es la lectura del libro “A People's History of the United States” de Howard Zinn.*
+Mi recomendación para el este mes es la lectura del libro “A People's History of the United States” de Howard Zinn.
 
-*Es una lectura muy interesante para todo mundo, pero, creo yo, especialmente para las y los ciudadanos estadounidenses porque narra una historia diferente a la historia oficial, y me parece más creíble.*
+Es una lectura muy interesante para todo mundo, pero, creo yo, especialmente para las y los ciudadanos estadounidenses porque narra una historia diferente a la historia oficial, y me parece más creíble.

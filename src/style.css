@@ -975,6 +975,14 @@ h3 {
     line-break: auto;
   }
 
+  #post-title {
+    font-size: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    line-break: auto;
+  }
+
   .hector img {
       width: 50%;
   }
