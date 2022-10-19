@@ -21,11 +21,7 @@ handleChange = event => {
     this.setState({ email: event.target.value })
   }
 render() {
-    return this.state.result === "success " ? (
-        <Box textAlign='center'><div>SUCCESS</div></Box>
-      ) : this.state.result === "error" ? (
-        <Box textAlign='center'><div>Error!</div></Box>
-      ) : (
+    return (
       <form onSubmit={this._handleSubmit}>
         <Box textAlign='center'>
         <TextField
