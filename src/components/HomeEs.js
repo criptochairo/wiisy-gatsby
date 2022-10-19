@@ -40,12 +40,7 @@ const Home = () => {
                 <Link to="/contact/es"><StaticImage src="../images/Resources/Pics/181.JPEG" alt="contact-me" className="home-img" /></Link>
                 <Link style={{ color: 'black' }} to="/contact/es"><h2>Contáctenme</h2></Link>
                 <p className="container-text">Soy toda oídos. ¿Me mandan sus preguntas y comentarios?</p>
-            </div>
-
-            <div className="footer-wrapper">
-            <h3 className="footer">Suscríbanse para recibir mi boletín semanal por correo electrónico. Los inspirará a probar cosas nuevas al permitirse decir que ¡SÍ! Próximamente...</h3><br /><br />
-            </div>
-            
+            </div>            
         </div>
     )
 }

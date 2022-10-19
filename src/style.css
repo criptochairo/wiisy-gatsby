@@ -592,7 +592,14 @@ img {
 }
 
 #contact-me {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
+}
+
+#newsletter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
 }
 
 .text-container {
@@ -940,7 +947,7 @@ h3 {
   .gotop {
     width: 2.5em;
     height: 2.5em;
-  }
+    }
 
   .section-container {
       width: 90%;

@@ -43,11 +43,6 @@ const Home = () => {
                 <Link style={{ color: 'black' }} to="/contact/en"><h2>Contact Me</h2></Link>
                 <p className="container-text">I'm all ears. Would you send me your questions and comments?</p>
             </div>
-
-            <div className="footer-wrapper">
-            <h3 className="footer">Subscribe to receive my weekly email newsletter. It will inspire you to try new things by allowing yourself to say YES! Coming soon...</h3><br /><br />
-            </div>
-            
         </div>
     )
 }
