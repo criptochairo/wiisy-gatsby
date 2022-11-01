@@ -69,6 +69,12 @@ function Photography({ data, location }) {
 
                 <div className="post-img-container">
                     <div className="post-img-container">
+                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Noviembre</h1><br />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/nov.jpg" alt="logo" /><br />
+                    <i>“Aretes de árbol…”</i><br />
+                    </div>
+                    ------------------------<br /><br />
+                    <div className="post-img-container">
                     <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>Octubre</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/oct.jpg" alt="logo" /><br />
                     <i>“Con el corazón partido…”</i><br />
