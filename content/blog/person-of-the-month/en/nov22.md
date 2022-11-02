@@ -63,7 +63,7 @@ For them to visit us in Cuernavaca, they must bring their dogs because they have
 
 If they want to stay overnight, I only have one bedroom available, but it has carpet, and I didn't want the dogs to get in there.
 
-Finally, it seemed to me that the relationship with my grandson was more important than the carpet and I said that they could come with his dogs and stay in the bedroom with them.
+Finally, it seemed to me that the relationship with my grandson was more important than the carpet and I said that they could come with their dogs and stay in the bedroom with them.
 
 Nothing bad happened and we all had a very good time.
   

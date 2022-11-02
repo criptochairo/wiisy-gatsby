@@ -33,7 +33,7 @@ Fue divertido, pero no tan aterrador como yo quería que fuera.
 
 Así fue el viaje.
 
-Nos subimos dos veces y hacía mucho frío porque íbamos súper rápido y la temperatura estaba a 30 grados, lo que hacía que se sintiera todo aún más frío.
+Nos subimos dos veces y hacía mucho frío porque íbamos súper rápido y la temperatura estaba a 30 grados Farenheit, lo que hacía que se sintiera todo aún más frío.
 
 Después del primer viaje, nos dirigimos al hotel para comprar papas fritas y un refresco.
 

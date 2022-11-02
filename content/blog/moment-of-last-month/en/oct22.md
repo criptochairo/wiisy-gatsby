@@ -55,7 +55,7 @@ As we rode on the coaster, strange-looking people whispered or made odd noises. 
 
 I had to rest as much as possible, getting my body ready to take the trip and then get on the coaster for the thrills and chills!
 
-Thanks to Lucia, I did not have to drive to Greek Peak because she volunteered to do so both ways, even though she did not get on the coaster.
+Thanks to Lucía, I did not have to drive to Greek Peak because she volunteered to do so both ways, even though she did not get on the coaster.
 
 Overall, as you can see from the photos, we had a lovely time despite the cold winds in the mountain and my physical condition.
 

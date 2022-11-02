@@ -43,7 +43,7 @@ Si no el más reciente, sí uno que considero muy importante y es cuando acepté
 
 ***7. ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.***
 
-DGrandes satisfacciones como Voluntaria del IMSS
+Grandes satisfacciones como Voluntaria del IMSS
 
 Buenas relaciones con mi familia.
 
