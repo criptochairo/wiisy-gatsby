@@ -37,7 +37,7 @@ export default class Index extends React.Component {
 
   render() {
     return (<>
-        <Seo title="Contact Me" />
+        <Seo title="Community Board" />
         <Nav />
           <div className="text-container">
             <StaticImage src="../../images/Resources/Pics/544.JPEG" alt="logo" className="header-img" />
@@ -54,7 +54,7 @@ export default class Index extends React.Component {
               <form
                 name="contact"
                 method="post"
-                action="/contact/thanks/"
+                action="/community/thanks/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
