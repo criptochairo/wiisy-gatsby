@@ -320,6 +320,13 @@ a:focus {
 
 /* MY FILE STARTS HERE */
 
+.newsletter-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .gatsby-resp-image-wrapper {
   display: flex;
   align-self: center;

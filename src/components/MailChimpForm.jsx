@@ -3,7 +3,7 @@
 import addToMailchimp from "gatsby-plugin-mailchimp"
 import TextField from "@material-ui/core/TextField"
 import Button from "@material-ui/core/Button"
-import Box from "@material-ui/core/Box"
+import Grid from "@material-ui/core/Grid"
 import { Typography } from "@material-ui/core"
 import React from "react"
 
@@ -22,8 +22,14 @@ handleChange = event => {
   }
 render() {
     return (
-      <form onSubmit={this._handleSubmit}>
-        <Box textAlign='center'>
+      <form onSubmit={this._handleSubmit} className="newsletter-container">
+        <Grid
+          container
+          spacing={0}
+          direction="column"
+          alignItems="center"
+          justifyContent="center"
+        >
         <TextField
           id="outlined-email-input"
           label="Email"
@@ -40,10 +46,11 @@ render() {
             label="Submit"
             type="submit"
             style={{margin: "1em auto"}}
+            onClick={() => {alert('Thank you for subscribing!')}}
             >
             <Typography variant="button">Send/Enviar</Typography>
             </Button>
-        </Box>
+        </Grid>
       </form>
     )
   }
