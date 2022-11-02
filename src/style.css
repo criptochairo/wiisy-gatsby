@@ -1027,7 +1027,11 @@ h3 {
   }
 
   .gatsby-resp-image-wrapper {
-    width: 75%;
+    width: 100%;
+  }
+
+  .content-text img {
+    width: 100%;
   }
 
 }
