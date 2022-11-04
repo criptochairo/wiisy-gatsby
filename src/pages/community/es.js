@@ -1,7 +1,7 @@
 import * as React from "react";
 import { navigate } from "gatsby-link";
 import Seo from '../../components/seo';
-import Nav from "../../components/Nav";
+import Nav from "../../components/NavEs";
 import { StaticImage } from "gatsby-plugin-image";
 
 function encode(data) {
@@ -37,11 +37,11 @@ export default class Index extends React.Component {
 
   render() {
     return (<>
-        <Seo title="Pizarrón Comunitario" />
+        <Seo title="Pizarrón comunitario" />
         <Nav />
           <div className="text-container">
             <StaticImage src="../../images/Resources/Pics/544.JPEG" alt="logo" className="header-img" />
-              <h1>Pizarrón Comunitario</h1>
+              <h1>Pizarrón comunitario</h1>
               <p className="content-text">
                 En cuestiones de creación es muy importante tener un espacio personal, íntimo. Pero también es importante crear un espacio comunal, para compartir lo que pensamos, reflexionamos y sentimos y así darle un sentido más completo a nuestra existencia.
                 <br /><br />

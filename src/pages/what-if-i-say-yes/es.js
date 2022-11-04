@@ -14,7 +14,7 @@ const Hector = () => {
             <Seo title="Héctor" />
             <NavEs />
             <img src={logo} alt="wiisy-logo" className="header-img"/>
-            <h1>What If I Say Yes?</h1>
+            <h1>¿Y si digo que sí?</h1>
             <p className="content-text">El 5 de noviembre del 2005 mi hermano, Héctor Cárdenas, le dedicó a una amiga una de sus pinturas. Abajo leerán el texto que leyó esa noche. Sus palabras me inspiraron, años después, a crear este sitio web en su honor:</p>
             
             <div className="hector">

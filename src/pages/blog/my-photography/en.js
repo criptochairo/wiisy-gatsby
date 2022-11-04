@@ -68,67 +68,67 @@ function Photography({ data, location }) {
 
                 <div className="post-img-container">
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>November</h1><br />
+                    <h1 className="post-title">November</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/nov.jpg" alt="logo" /><br />
                     <i>“Tree's earrings…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>October</h1><br />
+                    <h1 className="post-title">October</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/oct.jpg" alt="logo" /><br />
                     <i>“With a broken heart…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>September</h1><br />
+                    <h1 className="post-title">September</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/sep.jpg" alt="logo" /><br />
                     <i>“Every seed is a possibility…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>August</h1><br />
+                    <h1 className="post-title">August</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/aug.jpg" alt="logo" /><br />
                     <i>“Brightening the ground…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>July</h1><br />
+                    <h1 className="post-title">July</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/july.jpg" alt="logo" /><br />
                     <i>“The beginning of life…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>June</h1><br />
+                    <h1 className="post-title">June</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/jun.jpg" alt="logo" /><br />
                     <i>“Nature's calligraphy…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>May</h1><br />
+                    <h1 className="post-title">May</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/may.jpg" alt="logo" /><br />
                     <i>“The mother of all (maple) leaves…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>April</h1><br />
+                    <h1 className="post-title">April</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/apr.jpg" alt="logo" /><br />
                     <i>“Two seasons at the same time”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>March</h1><br />
+                    <h1 className="post-title">March</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/mar.jpg" alt="logo" /><br />
                     <i>“Nature also smiles…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>February</h1><br />
+                    <h1 className="post-title">February</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/feb.jpg" alt="logo" /><br />
                     <i>“Autumnal carpet…”</i><br />
                     </div>
                     ------------------------<br /><br />
                     <div className="post-img-container">
-                    <h1 style={{fontSize: "2em", fontFamily: "Georgia"}}>January</h1><br />
+                    <h1 className="post-title">January</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/jan.jpg" alt="logo" /><br />
                     <i>“A stone in the road taught me that…”</i><br />
                     </div>         
