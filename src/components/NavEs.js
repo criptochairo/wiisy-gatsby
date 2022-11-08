@@ -13,7 +13,7 @@ function Nav() {
                 <Link className="nav-link" style={{ color: 'black'}} to="/what-if-i-say-yes/es"><li>· ¿Y si digo que sí?</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/about-me/es"><li>· Acerca de mí</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/blog/es"><li>· Blog</li></Link>
-                <Link className="nav-link" style={{ color: 'black'}} to="/community/es"><li>· Pizarrón Comunitario</li></Link>
+                <Link className="nav-link" style={{ color: 'black'}} to="/community/es"><li>· Pizarrón comunitario</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/contact/es"><li>· Contáctenme</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/"><li>· English</li></Link>
             </ul>
@@ -27,7 +27,7 @@ function Nav() {
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/what-if-i-say-yes/es"><li>· ¿Y si digo que sí?</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/about-me/es"><li>· Acerca de mí</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/blog/es"><li>· Blog</li></Link>
-                    <Link className="dropdown-link" style={{ color: 'black'}} to="/community/es"><li>· Pizarrón Comunitario</li></Link>
+                    <Link className="dropdown-link" style={{ color: 'black'}} to="/community/es"><li>· Pizarrón comunitario</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/contact/es"><li>· Contáctenme</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/"><li>· English</li></Link>
                         
