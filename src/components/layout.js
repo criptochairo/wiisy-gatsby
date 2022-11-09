@@ -15,28 +15,28 @@ const Layout = ({ location, title, children }) => {
         {title}
       </h1>
     )
-    footerText = (
-      <p style={{textAlign: "center"}}>
-        Subscribe to my newsletter to receive free wallpapers and personal updates!
-      </p>
-    )
   } else if (location.pathname === "/es") {
     header = (
       <h1 className="main-heading">
         ¿Y si digo que sí?
       </h1>
     )
+  }
+  let nav
+  if(location.pathname.includes("/es")) {
+    nav = <NavEs />
     footerText = (
       <p style={{textAlign: "center"}}>
         ¡Suscríbanse a mi newsletter para recibir fotografías gratis y actualizaciones personales!
       </p>
     )
-  }
-  let nav
-  if(location.pathname.includes("/es")) {
-    nav = <NavEs />
   } else {
     nav = <Nav />
+    footerText = (
+      <p style={{textAlign: "center"}}>
+        Subscribe to my newsletter to receive free wallpapers and personal updates!
+      </p>
+    )
   }
 
   return (
