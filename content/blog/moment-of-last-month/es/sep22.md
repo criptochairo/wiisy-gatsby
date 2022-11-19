@@ -39,6 +39,6 @@ Ojalá me puedan seguir y compartir mi trabajo. Me llamo Dr. C-Los, Comedian
 
 Pueden echar un vistazo a mi humor social y comedia oscura aquí:
 
-[TikTok](https://www.tiktok.com/@drc_los_comedian?is_from_webapp=1&sender_device=pc)
+[TikTok](https://www.tiktok.com/@carlos_figueroa_comedian)
 
 [YouTube](https://www.youtube.com/channel/UCeIRL3zFrQHJxSWnD3nvitQ/featured)

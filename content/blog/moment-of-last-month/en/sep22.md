@@ -39,6 +39,6 @@ Please follow and share my work! I go by Dr. C-Los, Comedian!
 
 Check out my social humor and dark comedy here:
 
-[TikTok](https://www.tiktok.com/@drc_los_comedian?is_from_webapp=1&sender_device=pc)
+[TikTok](https://www.tiktok.com/@carlos_figueroa_comedian)
 
 [YouTube](https://www.youtube.com/channel/UCeIRL3zFrQHJxSWnD3nvitQ/featured)
